@@ -8,105 +8,105 @@ The following is a list of contributor profiles of Secret Network.
 
 The following entitities provide support for Secret Network (alphabetical order):
 
-𝕊wiss𝕊ecretNode
+* 01node
 
-dg-secret-node
+* Archpool.io
 
-🔒DataPrivacyNode.com
+* B-Harvest
 
-🤐WhisperNode
+* Cashmaney
 
-🦁chimere.io - lottery🎰
+* ChainofSecrets.org
 
-🧩secretnodes
+* chimere.io - lottery
 
-🛹 Stake or Die! 🐝🐝🐝
+* Chorus One
 
-Decentralize SCRT!
+* Citadel.one
 
-Stakewolle.com
+* CowLevel
 
-Crotalus Capital 🐍
+* Crotalus Capital 
 
-ShadowRealm
+* DataPrivacyNode.com
 
-01node
+* Decentralize
 
-Archpool.io
+* Decentralize SCRT!
 
-B-Harvest
+* dg-secret-node
 
-Cashmaney
+* DokiaCapital
 
-ChainofSecrets.org
+* EncryptedState.org
 
-Chorus One
+* Enigma
 
-Citadel.one
+* EnigMarines Capital
 
-🅲🅾🆆 🅻🅴🆅🅴🅻 🐮
+* FATS
 
-Decentralize
+* figment
 
-DokiaCapital
+* FreshSCRT
 
-EncryptedState.org
+* HashQuark
 
-Enigma
+* HonestNode
 
--EnigMarines Capital
+* Mario
 
-FATS
+* MathWallet - Fenbushi
 
-figment
+* melea.xyz
 
-FreshSCRT
+* Mr. Roboto🤖's Secret
 
-HashQuark
+* NodeVine.io
 
-HonestNode
+* Nosce
 
-Mario
+* OrderofSecrets
 
-MathWallet - Fenbushi
+* Outlier Ventures
 
-melea.xyz
+* Protofire
 
-Mr. Roboto🤖's Secret
+* Quiet monkey mind
 
-NodeVine.io
+* raash
 
-Nosce
+* Secret Keeper
 
-OrderofSecrets
+* SecretAlf
 
-Outlier Ventures
+* SecretBlueJay
 
-Protofire
+* SecretDog
 
-Quiet monkey mind
+* secretnodes
 
-raash
+* securesecrets.org
 
-Secret Keeper
+* SG-1
 
-SecretAlf
+* ShadowRealm
 
-SecretBlueJay
+* Simply Staking
 
-SecretDog
+* Stake or Die! 
 
-securesecrets.org
+* Staked
 
-SG-1
+* Stakewolle.com
 
-Simply Staking
+* Staky.io
 
-Staked
+* 𝕊wiss𝕊ecretNode
 
-Staky.io
+* Wall-E
 
-Wall-E
+* WhisperNode
 
 ## How to add your profile
 
