@@ -7,7 +7,15 @@ The following is a list of contributor profiles of Secret Network.
 ⚠️ This is a community-generated list.
 -----------------------------
 
-The following entitities provide support for Secret Network (alphabetical order):
+## Tooling Developers:
+
+Keplr
+
+## Applications
+
+Sienna
+
+## Validators
 
 * 01node
 
