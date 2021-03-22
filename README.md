@@ -69,7 +69,7 @@ The following is a list of contributor profiles of Secret Network.
 
 * melea.xyz
 
-* Mr. Roboto🤖's Secret
+* Mr. Roboto's Secret
 
 * NodeVine.io
 
