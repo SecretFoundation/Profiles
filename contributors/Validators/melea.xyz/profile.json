@@ -1,0 +1,10 @@
+{
+  "name": "contributor-name",
+  "contact": {
+    "email": "",
+    "telegram": "@your-telegram-handle",
+    "wechat": "@your-wechat-handle",
+    "discord": "@your-discord-handle"
+  },
+  "website": "https://www.example.com/"
+}
