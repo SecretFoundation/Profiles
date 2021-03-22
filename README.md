@@ -6,7 +6,7 @@ The following is a list of contributor profiles of Secret Network.
 
 ⚠️ This is a community-generated list. Providers have not been vetted or endorsed by the core development team. Use your judgement in selecting a provider.
 
-The following validators provide support for Secret Network (alphabetical order):
+The following entitities provide support for Secret Network (alphabetical order):
 
 
 
