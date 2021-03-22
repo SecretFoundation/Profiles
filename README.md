@@ -9,54 +9,103 @@ The following is a list of contributor profiles of Secret Network.
 The following entitities provide support for Secret Network (alphabetical order):
 
 𝕊wiss𝕊ecretNode
+
 dg-secret-node
+
 🔒DataPrivacyNode.com
+
 🤐WhisperNode
+
 🦁chimere.io - lottery🎰
+
 🧩secretnodes
+
 🛹 Stake or Die! 🐝🐝🐝
+
 Decentralize SCRT!
+
 Stakewolle.com
+
 Crotalus Capital 🐍
+
 ShadowRealm
+
 01node
+
 Archpool.io
+
 B-Harvest
+
 Cashmaney
+
 ChainofSecrets.org
+
 Chorus One
+
 Citadel.one
+
 🅲🅾🆆 🅻🅴🆅🅴🅻 🐮
+
 Decentralize
+
 DokiaCapital
+
 EncryptedState.org
+
 Enigma
-EnigMarines Capital
+
+-EnigMarines Capital
+
 FATS
+
 figment
+
 FreshSCRT
+
 HashQuark
+
 HonestNode
+
 Mario
+
 MathWallet - Fenbushi
+
 melea.xyz
+
 Mr. Roboto🤖's Secret
+
 NodeVine.io
+
 Nosce
+
 OrderofSecrets
+
 Outlier Ventures
+
 Protofire
+
 Quiet monkey mind
+
 raash
+
 Secret Keeper
+
 SecretAlf
+
 SecretBlueJay
+
 SecretDog
+
 securesecrets.org
+
 SG-1
+
 Simply Staking
+
 Staked
+
 Staky.io
+
 Wall-E
 
 ## How to add your profile
