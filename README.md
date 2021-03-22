@@ -11,20 +11,20 @@ The following validators provide support for Secret Network (alphabetical order)
 
 
 
-How to add your profile
+## How to add your profile
 
-Fork this repo and create a new directory inside of the profiles folder.
+#### Fork this repo and create a new directory inside of the profiles folder.
 
-Name the new directory <your-validator-name>.
+#### Name the new directory <your-validator-name>.
   
-Copy both files (README.md and profile.json) from templates into your directory.
+#### Copy both files (README.md and profile.json) from templates into your directory.
 
-Add your information to both files as appropriate (deleting any unused fields from profile.json).
+#### Add your information to both files as appropriate (deleting any unused fields from profile.json).
 
-Feel free to customize your README.md file however you desire.
+#### Feel free to customize your README.md file however you desire.
 
-Add a link to your profile folder to the list of providers in this README.md file (alphabetical order).
+#### Add a link to your profile folder to the list of providers in this README.md file (alphabetical order).
 
-Commit and submit a pull request.
+#### Commit and submit a pull request.
 
 We will review your submission and, if there are no issues, merge it into master.
