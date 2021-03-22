@@ -4,8 +4,6 @@ Email: ian@secretnodes.org
 Telegram: @moonstash
 ---
 
-NOTE: This is just a suggested template, modify it as you see fit.
-
 # secretnodes
 
 A brief description of your company/validator/entity... (what differentiates you, why people should do business with you, etc.).
