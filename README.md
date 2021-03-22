@@ -27,4 +27,4 @@ The following validators provide support for Secret Network (alphabetical order)
 
 #### Commit and submit a pull request.
 
-We will review your submission and, if there are no issues, merge it into master.
+#### We will review your submission and, if there are no issues, merge it into master.
