@@ -6,7 +6,7 @@ Telegram: @moonstash
 
 # secretnodes
 
-We are the first/original community incorporated company to form around Secret Network and our roots in the community go back to the 2017 ENG ICO. We have played a part in every part of the history of the network and are committed to continuing to support and grow the ecosystem as a whole with further develpment.
+We are the first/original community incorporated company to form around Secret Network and our roots in the community go back to the 2017 ENG ICO. We have played a role in all major aspects of the history of the network and are committed to continuing to support and grow the ecosystem as a whole with further develpment efforts.
 
 ## Team
 
