@@ -26,7 +26,7 @@ We set the standard on the Secret Network for architecture through leading the i
 Overview of any contributions to the Secret Network ecosystem and/or community, if relevant.
 
 - Genesis Validator on the Secret Network (Feb 2020)
-- Propopsed and lead the community ENG to SCRT burn.
+- Proposed and led the community ENG to SCRT burn.
 - Development of secretnodes.com explorer with a special focus on the Secret Network.
 
 ## Contact Us
