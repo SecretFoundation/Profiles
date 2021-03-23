@@ -1,49 +1,31 @@
 ---
-Name: <name>
-Email: <your-email>
-Telegram: @your_telegram_handle
-WeChat: @your_wechat_handle
-Discord: @your_discord_handle
+Name: luigi1111
+Email: luigi1111w@protonmail.com
+Telegram: @luigi1111
+Discord: @luigi1111#9264
 ---
 
-NOTE: This is just a suggested template, modify it as you see fit.
+# Mario
 
-# <name>
-
-A brief description of your company/validator/entity... (what differentiates you, why people should do business with you, etc.).
+- Memes, mostly. Letsa go!
+- Slash protection
+- Fee will stay the same (unless it changes)
 
 ## Team
 
-A brief description of your core team and key personnel.
+| Name      | Role    | Description    |
+| --------- | ------- | -------------- |
+| luigi1111 | Founder | Humble Plumber |
 
-| Name             | Role    | Description                  |
-| ---------------  | ------- | ---------------------------- |
-| Satoshi Nakamoto | Founder | Creator of Bitcoin           |
-| Vitalik Buterin  | CTO     | Creator of Ethereum          |
+## Architecture
 
-## Our Architecture
-
-Overview of your architecture and security practices. Why should people feel comfortable delegating to you?
+Validator + sentry nodes distributed on physical hardware
 
 ## Ecosystem Contributions
 
-Overview of any contributions to the NuCypher ecosystem and/or community, if relevant.
+- Long-time community member on Telegram
+- Infrastructure Committee contributer/lead
 
-- Built node monitoring tools
-- Long-time active community member on discord
-- Built X application on the NuCypher network
+## Contact
 
-## Contact Us
-
-Have questions? You can reach us:
-
-- Email: ...
-- Telegram: ...
-- WeChat: ...
-- Discord: ...
-
-### Website
-
-<your-website>
-<your-website-direct-link-to-nucypher-page>
-
+- Telegram: https://t.me/marionode
