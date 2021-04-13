@@ -10,7 +10,7 @@ NOTE: This is just a suggested template, modify it as you see fit.
 
 # <name>
 
-A brief description of your organization. 
+Entity/application introductory description (2 - 7 sentences). 
 
 ## Team
 
@@ -21,9 +21,9 @@ A brief description of your core team and key personnel.
 | Satoshi Nakamoto | Founder | Creator of Bitcoin           |
 | Vitalik Buterin  | CTO     | Creator of Ethereum          |
 
-## Organization Differentiation
+## Entity / Application Differentiation
 
-What is unique about your organization? This may include architecture, values, best-practices, tools, etc. 
+What is unique about your organization/entity/application? This may include architecture, values, best-practices, tools, etc. 
 
 ## Ecosystem Contributions
 
