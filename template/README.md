@@ -10,7 +10,7 @@ NOTE: This is just a suggested template, modify it as you see fit.
 
 # <name>
 
-A brief description of your company/validator/entity... (what differentiates you, why people should do business with you, etc.).
+A brief description of your company/validator/entity. 
 
 ## Team
 
@@ -23,7 +23,7 @@ A brief description of your core team and key personnel.
 
 ## Organization Differentiation
 
-What is unique about your organization? This may include architecutre, values, best-practices, tools, etc. 
+What is unique about your organization? This may include architecture, values, best-practices, tools, etc. 
 
 ## Ecosystem Contributions
 
