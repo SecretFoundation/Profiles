@@ -21,9 +21,9 @@ A brief description of your core team and key personnel.
 | Satoshi Nakamoto | Founder | Creator of Bitcoin           |
 | Vitalik Buterin  | CTO     | Creator of Ethereum          |
 
-## Our Architecture
+## Organization Differentiation
 
-Overview of your architecture and security practices. Why should people feel comfortable delegating to you?
+What is unique about your organization? This may include architecutre, values, best-practices, tools, etc. 
 
 ## Ecosystem Contributions
 
