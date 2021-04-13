@@ -10,7 +10,7 @@ NOTE: This is just a suggested template, modify it as you see fit.
 
 # <name>
 
-A brief description of your company/validator/entity. 
+A brief description of your organization. 
 
 ## Team
 
