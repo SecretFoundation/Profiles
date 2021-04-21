@@ -14,6 +14,9 @@ The following is a list of contributor profiles of Secret Network.
 ## Applications
 
 * Sienna
+* SecretSwap
+* Secret Auctions
+* Secret Bridge
 
 ## Validators
 
