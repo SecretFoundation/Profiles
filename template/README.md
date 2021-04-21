@@ -10,7 +10,7 @@ NOTE: This is just a suggested template, modify it as you see fit.
 
 # <name>
 
-A brief description of your company/validator/entity... (what differentiates you, why people should do business with you, etc.).
+Entity/application introductory description (2 - 7 sentences). 
 
 ## Team
 
@@ -21,17 +21,17 @@ A brief description of your core team and key personnel.
 | Satoshi Nakamoto | Founder | Creator of Bitcoin           |
 | Vitalik Buterin  | CTO     | Creator of Ethereum          |
 
-## Our Architecture
+## Entity / Application Differentiation
 
-Overview of your architecture and security practices. Why should people feel comfortable delegating to you?
+What is unique about your organization/entity/application? This may include architecture, values, best-practices, tools, etc. 
 
 ## Ecosystem Contributions
 
-Overview of any contributions to the NuCypher ecosystem and/or community, if relevant.
+Overview of any contributions to the Secret Network ecosystem and/or community, if relevant.
 
 - Built node monitoring tools
 - Long-time active community member on discord
-- Built X application on the NuCypher network
+- Built X application on the Secret Network
 
 ## Contact Us
 

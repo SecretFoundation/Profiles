@@ -1,10 +1,9 @@
 {
-  "name": "contributor-name",
+  "name": "WhisperNode",
   "contact": {
-    "email": "",
-    "telegram": "@your-telegram-handle",
-    "wechat": "@your-wechat-handle",
-    "discord": "@your-discord-handle"
+    "email": "brendan@secret.foundation",
+    "telegram": "@BKBlockchain",
+    "discord": "@Brendan | WhisperNode#1111"
   },
-  "website": "https://www.example.com/"
+  "website": "https://www.whispernode.com/"
 }

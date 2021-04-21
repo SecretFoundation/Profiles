@@ -27,11 +27,11 @@ Overview of your architecture and security practices. Why should people feel com
 
 ## Ecosystem Contributions
 
-Overview of any contributions to the NuCypher ecosystem and/or community, if relevant.
+Overview of any contributions to the Secret Network ecosystem and/or community, if relevant.
 
 - Built node monitoring tools
 - Long-time active community member on discord
-- Built X application on the NuCypher network
+- Built X application on the Secret Network
 
 ## Contact Us
 
