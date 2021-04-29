@@ -35,7 +35,7 @@ SEFI is the native governance token for SecretSwap and Secret DeFi more generall
 
 ### What is Front-running?
 
-Front-running is an arbitrage strategy to make profit at someone else’s expense based on an information advantage. Front-running issue is not limited to DeFi, however the scale of the problem is amplified given the public nature of blockchains. Miners and arbitrage bots can see an order on the mempool before the order makes its way into the ledger and insert their orders with higher gas fees to be processed first. This means that the miner or the arbitrage bot can profit at the expense of a regular user. Furthermore, this arbitrage opportunity increases the gas fees of the underlying network, hurting users even more. Front-running problem on Ethereum DeFi costs users ~$1bn per year and millions of dollars in lost gas fees.
+Front-running is an arbitrage strategy to make profit at someone else’s expense based on an information advantage. Front-running issue is not limited to DeFi, however the scale of the problem is amplified given the public nature of blockchains. Miners and arbitrage bots can see an order on the mempool before the order makes its way into the ledger and insert their orders with higher gas fees to be processed first. This means that the miner or the arbitrage bot can profit at the expense of a regular user. Furthermore, this arbitrage opportunity increases the gas fees of the underlying network, hurting users even more. [Front-running problem on Ethereum DeFi costs users ~$1bn per year and millions of dollars in lost gas fees](https://explore.flashbots.net/).
 
 ### How does Secret Swap achieve front-running resistance?
 
@@ -43,7 +43,7 @@ SecretSwap is a protocol to swap secret contract based tokens (SNIP-20s) on Secr
 
 ### How do I use Secret Swap?
 
-First, you’ll need a Keplr wallet and some $SCRT. Once completed, head over to SecretSwap to start using the protocol to provide liquidity or swap tokens. Since SecretSwap is built on Secret Network, each transaction and interaction costs $SCRT (the native coin of the network). This is called the “gas fee” and it’s paid to network validators to keep the network running.
+First, you’ll need a Keplr wallet and some $SCRT. Once completed, head over to SecretSwap to start using the protocol to provide liquidity or swap tokens. Since [SecretSwap](https://bridge.scrt.network/swap#Swap) is built on Secret Network, each transaction and interaction costs $SCRT (the native coin of the network). This is called the “gas fee” and it’s paid to network validators to keep the network running.
 
 ### How does Secret Swap work?
 
@@ -55,7 +55,7 @@ The pools keep track of reserves (liquidity) and updates those reserves every si
 
 Note: Given the requirement to publicly update pool reserves to determine the price, an observer can see a consolidated view of changes (swaps, provide / remove liquidity) in a given block. As a result, if there’s a single transaction with the pool in a given block, it is not possible to have privacy on that transaction. With more transactions per pool in a given block, SecretSwap provides additional privacy to users.
 
-For a more in depth description, check out how SecretSwap works in this blog post outlining the theory behind an AMM using secret contracts.
+For a more in depth description, check out how SecretSwap works in this [blog post](https://scrt.network/blog/secret-markets-front-running-prevention) outlining the theory behind an AMM using secret contracts.
 
 ### How are prices determined?
 
