@@ -5,6 +5,8 @@
 # Why SecretSwap
 Built on the principles of usability and privacy, SecretSwap provides a foundation for the open accessible financial system of the future. Our primary focus is to protect our users from value extracting players by focusing on privacy, a basic human right. SecretSwap is a liquidity hub that connects to other ecosystems for maximum user protection and access to assets.
 
+https://www.youtube.com/watch?v=CqkOUNvDIx8
+
 # Front-running Resistant
 Solving [~$1bn](https://explore.flashbots.net/) problem crippling DeFi users
 
