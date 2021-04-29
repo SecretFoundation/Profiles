@@ -6,7 +6,7 @@
 
 Secret Swap is a protocol for creating liquidity and trading SNIP-20 tokens on Secret Network. Leveraging secret contracts, Secret Swap protects users against malicious front-running and privacy threats, provides access to cross-chain liquidity, and reduces fees relative to Ethereum.
 
-![Swap](https://user-images.githubusercontent.com/25411371/116608908-59b09580-a8f9-11eb-8367-f8cc2bbcdfe2.PNG)
+![Capture](https://user-images.githubusercontent.com/25411371/116621024-36411700-a908-11eb-9bbd-ae2a766fe46d.PNG)
 
 # Why SecretSwap
 
