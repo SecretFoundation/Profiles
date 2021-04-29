@@ -16,3 +16,5 @@ Encrypted nature of secret contracts provide [enhanced privacy](https://scrt.net
 
 # About SEFI
 SEFI is the native governance token for SecretSwap and Secret DeFi more generally. Earn SEFI and shape the future of the front-running resistant, privacy-first open finance ecosystem
+
+![SEFI](https://user-images.githubusercontent.com/25411371/116608420-c70ff680-a8f8-11eb-88b5-a094084a8554.PNG)
