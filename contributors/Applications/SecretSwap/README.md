@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/25411371/116608182-86b07880-a8f8-11eb-97c0-c1eba655b24f.png)
+
 ### [secretswap.io](https://www.secretswap.io/)
 
 # Why SecretSwap
