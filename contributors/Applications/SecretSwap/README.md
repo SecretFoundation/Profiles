@@ -3,6 +3,8 @@
 ### [secretswap.io](https://www.secretswap.io/)
 
 # Why SecretSwap
+![Swap](https://user-images.githubusercontent.com/25411371/116608908-59b09580-a8f9-11eb-8367-f8cc2bbcdfe2.PNG)
+
 Built on the principles of usability and privacy, SecretSwap provides a foundation for the open accessible financial system of the future. Our primary focus is to protect our users from value extracting players by focusing on privacy, a basic human right. SecretSwap is a liquidity hub that connects to other ecosystems for maximum user protection and access to assets.
 
 [![SecretSwap](https://user-images.githubusercontent.com/25411371/116608626-0d655580-a8f9-11eb-86ad-3b1be6898d8c.PNG)](https://www.youtube.com/watch?v=CqkOUNvDIx8)
