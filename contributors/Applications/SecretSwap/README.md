@@ -76,11 +76,11 @@ Secret Network requires $SCRT as gas to execute each transaction. Depending on t
 
 ### What is the total supply of SEFI?
 
-Total supply of SEFI is set at 1,000,000,000. This amount is a non-inflationary fixed supply set at launch. 10% of the SEFI supply will be distributed at the genesis event to SecretSwap LPs during the soft-launch, SCRT stakers who secure Secret Network, users (depositors) of Secret Network-Ethereum bridge and UNI holders (above 400 UNI). The remaining 90% of the supply will be distributed over 4 years with a deflationary schedule. For more on SEFI tokenomics.
+Total supply of SEFI is set at 1,000,000,000. This amount is a non-inflationary fixed supply set at launch. 10% of the SEFI supply will be distributed at the genesis event to SecretSwap LPs during the soft-launch, SCRT stakers who secure Secret Network, users (depositors) of Secret Network-Ethereum bridge and UNI holders (above 400 UNI). The remaining 90% of the supply will be distributed over 4 years with a deflationary schedule. For more on [SEFI tokenomics](https://scrt.network/blog/sefi-governance-token-for-secret-defi).
 
 ### How can I claim my SEFI?
 
-Users will be able to claim SEFI both on Secret Network with their Keplr Wallet and on Ethereum with their Metamask wallet. Users can claim their SEFI airdrop on the SecretSwap application. After you’ve claimed your SEFI, you can provide liquidity to sSCRT/SEFI pool or stake your SEFI and continue to earn SEFI after genesis.
+Users will be able to claim SEFI both on Secret Network with their [Keplr](https://wallet.keplr.app/) Wallet and on Ethereum with their [Metamask](https://metamask.io/) wallet. Users can claim their SEFI airdrop on the [SecretSwap application](https://bridge.scrt.network/swap#Swap). After you’ve claimed your SEFI, you can provide liquidity to sSCRT/SEFI pool or stake your SEFI and continue to earn SEFI after genesis.
 
 ### Who else can earn SEFI after genesis?
 
@@ -88,7 +88,7 @@ SecretSwap LPs and SEFI stakers will begin earning SEFI after genesis. Traders o
 
 ### Will you be able to stake SEFI at launch?
 
-Yes, you can use this link to stake SEFI and participate in SecretSwap governance. Staking SEFI provides impermanent loss free yield. SEFI staking is done through a secret contract, using the SecretSwap application.
+Yes, you can use this [link](https://bridge.scrt.network/sefi) to stake SEFI and participate in SecretSwap governance. Staking SEFI provides impermanent loss free yield. SEFI staking is done through a secret contract, using the [SecretSwap application](https://bridge.scrt.network/sefi).
 
 ### What is the difference between an LP token and SEFI?
 
@@ -113,7 +113,7 @@ SecretSwap token pair secret contracts are ownerless. We have no special control
 
 ### How can I get support for SecretSwap?
 
-You can use this chat to get support for all SecretSwap related issues.
+You can use [this chat](https://discord.com/invite/X4Jv2qRC) to get support for all SecretSwap related issues.
 
 ### Will Keplr support SEFI staking at launch?
 
