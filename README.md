@@ -17,6 +17,7 @@ The following is a list of contributor profiles of Secret Network.
 * [SecretSwap](https://github.com/SecretFoundation/Profiles/tree/main/contributors/Applications/SecretSwap)
 * Secret Auctions
 * Secret Bridge
+* Secret Heroes
 
 ## Validators
 
