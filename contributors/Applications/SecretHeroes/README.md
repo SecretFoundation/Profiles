@@ -1,12 +1,10 @@
-
 <img width="340" alt="SecretHeroes2" src="https://user-images.githubusercontent.com/25411371/118671049-c0b8c000-b7bc-11eb-8b97-479bd2062eb4.PNG">
-
 
 Greetings Secret Heroes! Today begins your journey into the world of Secret NFTs. Specifically, Secret Heroes. The first ever video game built on top of the Secret Network, using secret NFTs to guarantee private and safe battles of heroes from all over the world! 
 
 [Link to Secret Heroes](https://secrethero.es/)
 
-
+<img width="514" alt="SecretHeroesCity" src="https://user-images.githubusercontent.com/25411371/118672677-0cb83480-b7be-11eb-84cc-73dc1a2e1a1c.PNG">
 Prerequisites:
 
 (1) Keplr Wallet
@@ -26,4 +24,6 @@ Choose a hero and send it to battle against two other players. In each battle, t
 Join the leaderboard today! 
 
 ![Leaderboard](https://user-images.githubusercontent.com/25411371/118671721-55232280-b7bd-11eb-87a1-6bdf3aa3eea4.jpg)
+
+[Play Secret Heroes Today!](https://secrethero.es/)
 
