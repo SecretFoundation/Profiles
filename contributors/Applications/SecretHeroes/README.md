@@ -1,4 +1,8 @@
+### [secretheroes.es](https://secrethero.es/)
+
 <img width="340" alt="SecretHeroes2" src="https://user-images.githubusercontent.com/25411371/118671049-c0b8c000-b7bc-11eb-8b97-479bd2062eb4.PNG">
+
+# Secret Heroes
 
 Greetings Secret Heroes! Today begins your journey into the world of Secret NFTs. Specifically, Secret Heroes. The first ever video game built on top of the Secret Network, using secret NFTs to guarantee private and safe battles of heroes from all over the world! 
 
