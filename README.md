@@ -16,7 +16,7 @@ The following is a list of contributor profiles of Secret Network.
 * [Sienna]()
 * [SecretSwap](https://github.com/SecretFoundation/Profiles/tree/main/contributors/Applications/SecretSwap)
 * [Secret Auctions]()
-* [Secret Bridge]()
+* [Secret Bridge](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/SecretBridge/README.md)
 * [Secret Heroes](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/SecretHeroes/README.md)
 
 ## Validators
