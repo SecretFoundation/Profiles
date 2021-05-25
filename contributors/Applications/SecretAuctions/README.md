@@ -8,3 +8,6 @@
 ####
 The first and only crypto auction platform with privacy by default is now LIVE. Bid for any secret token, with any secret token. Try it now!
 
+<img width="730" alt="Auction" src="https://user-images.githubusercontent.com/25411371/119444205-7b325080-bcf0-11eb-943a-ca0ae72b817d.PNG">
+
+
