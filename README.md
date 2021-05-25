@@ -104,7 +104,7 @@ The following is a list of contributor profiles of Secret Network.
 
 * Staky.io
 
-* [WhisperNode] (https://github.com/SecretFoundation/Profiles/tree/main/contributors/Validators/WhisperNode)
+* [WhisperNode](https://github.com/SecretFoundation/Profiles/tree/main/contributors/Validators/WhisperNode)
 
 ## How to add your profile
 
