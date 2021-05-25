@@ -20,7 +20,7 @@ The Awareness Committee shall have the potential to have multiple committee lead
 
 The Awareness Committee seeks members from diverse professional backgrounds with a broad spectrum of expertise that benefit the strategic guidance of the Secret Network’s awareness objectives and responsibilities. Committee members should have the characteristics essential for effectiveness as a member of the committee, and are expected to always:
 
-* Display Integrity, objectivity, sound judgment and leadership
+*Display Integrity, objectivity, sound judgment and leadership
 * Be exceptionally kind
 * Be respectful 
 * Have freedom of speech (but see rules 1, 2, and 3).
