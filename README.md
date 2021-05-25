@@ -58,12 +58,6 @@ The following is a list of contributor profiles of Secret Network.
 
 * EncryptedState.org
 
-* Enigma
-
-* EnigMarines Capital
-
-* FATS
-
 * figment
 
 * FreshSCRT
@@ -94,14 +88,6 @@ The following is a list of contributor profiles of Secret Network.
 
 * raash
 
-* Secret Keeper
-
-* SecretAlf
-
-* SecretBlueJay
-
-* SecretDog
-
 * [secretnodes](https://github.com/SecretFoundation/Profiles/tree/main/contributors/Validators/secretnodes)
 
 * [securesecrets.org](https://github.com/SecretFoundation/Profiles/tree/main/contributors/Validators/Secure%20Secrets)
@@ -116,13 +102,7 @@ The following is a list of contributor profiles of Secret Network.
 
 * Staked
 
-* Stakewolle.com
-
 * Staky.io
-
-* 𝕊wiss𝕊ecretNode
-
-* Wall-E
 
 * [WhisperNode] (https://github.com/SecretFoundation/Profiles/tree/main/contributors/Validators/WhisperNode)
 
