@@ -104,7 +104,7 @@ The following is a list of contributor profiles of Secret Network.
 
 * secretnodes
 
-* securesecrets.org
+* [securesecrets.org](https://github.com/SecretFoundation/Profiles/tree/main/contributors/Validators/Secure%20Secrets)
 
 * SG-1
 
