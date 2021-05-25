@@ -76,7 +76,7 @@ Review of current available opportunities to contribute to design
 Open forum for design review or discussion amongst Design Committee members (Note: this is not a forum for non-committee members to give feedback -- that will be handled through other means and channels)
 Schedule further design discussion, review, collaboration, or other breakout sessions as-needed to support one another in their respective design efforts
 
-Updating the Charter
+### Updating the Charter
 
 The Design Committee recognizes that decentralized governance is a highly experimental and rapidly evolving structure. As such, the Design Committee shall review and reassess the adequacy of this Charter periodically as it deems appropriate. This Charter may be amended or modified by the Committee, subject to disclosure and off-chain voting via discussion in committee meetings and communicated on the Secret Network forums. 
 
