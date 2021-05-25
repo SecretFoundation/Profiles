@@ -25,14 +25,14 @@ Design includes, but is not limited to:
 The following responsibilities are shared amongst all members of the Design Committee, but accountability ultimately lies with the Design Committee lead(s):
 
 
-Encourage collaboration between committee members and Secret Network projects, efforts, and initiatives with design needs
+* Encourage collaboration between committee members and Secret Network projects, efforts, and initiatives with design needs
 
-Promote design best practices within the Secret Network ecosystem, including user-friendliness, usability, inclusivity -- and design which supports Secret Network’s mission and vision.
+* Promote design best practices within the Secret Network ecosystem, including user-friendliness, usability, inclusivity -- and design which supports Secret Network’s mission and vision.
 
-Share design assets, knowledge, and resources with other members and the larger community to foster a decentralized, collaborative, and iterative design environment
+* Share design assets, knowledge, and resources with other members and the larger community to foster a decentralized, collaborative, and iterative design environment
 Provide a structured format for the community provide constructive feedback on design, as-needed
 
-Recommend new design-related initiatives for funding
+* Recommend new design-related initiatives for funding
 
 ### Membership
 
@@ -42,20 +42,21 @@ Membership involves being active and engaged in fulfilling the responsibilities 
 
 Design Committee Members are expected to:
 
-Treat one another with respect
+* Treat one another with respect
 
-Promote healthy and friendly design discussion
+* Promote healthy and friendly design discussion
 
-Foster an inclusive and collaborative environment for all members
+* Foster an inclusive and collaborative environment for all members
 
-Contribute to design of Secret Network projects, efforts, and initiatives in a manner that fits your skills, background, or experience and the respective project, effort, or initiative’s needs
+* Contribute to design of Secret Network projects, efforts, and initiatives in a manner that fits your skills, background, or experience and the respective project, effort, or initiative’s needs
 
-Have the willingness and ability to commit adequate time and effort to committee responsibilities and to the projects, efforts, initiatives you choose to design for
+* Have the willingness and ability to commit adequate time and effort to committee responsibilities and to the projects, efforts, initiatives you choose to design for
 
-Design to serve the community; share and make accessible your work with others, allowing them to iterate, experiment, or reutilize it in order to continually advance design within the Secret Network ecosystem
+* Design to serve the community; share and make accessible your work with others, allowing them to iterate, experiment, or reutilize it in order to continually advance design within the Secret Network ecosystem
 
-Detach your ego from your work; understand that all people and designs are fallible and capable of being improved
-Give design feedback constructively, empathetically, and respectfully; explain your reasoning behind suggested changes or improvements; and offer alternative approaches when possible.
+* Detach your ego from your work; understand that all people and designs are fallible and capable of being improved
+
+* Give design feedback constructively, empathetically, and respectfully; explain your reasoning behind suggested changes or improvements; and offer alternative approaches when possible.
 
 ### Design Committee Leads
 
@@ -67,21 +68,21 @@ Committee leads are beholden to the community and can be removed from their posi
 
 Lead Responsibilities include:
 
-Recruit community members into the Design Committee
+* Recruit community members into the Design Committee
 
-Maintain a list of active and engaged Design Committee Members, their design skills, and contributions for recognition and potential recommendation to specific projects or tasks where their skills could be utilized
+* Maintain a list of active and engaged Design Committee Members, their design skills, and contributions for recognition and potential recommendation to specific projects or tasks where their skills could be utilized
 
-Organize and prioritize design requests from various sources each week and distribute to Design Committee members through the committee’s communication channels
+* Organize and prioritize design requests from various sources each week and distribute to Design Committee members through the committee’s communication channels
 
-Help facilitate the connection of committee members with Secret Network projects, efforts, and initiatives with design needs and vice versa
+* Help facilitate the connection of committee members with Secret Network projects, efforts, and initiatives with design needs and vice versa
 
-Organize and leading committee meetings (outlined in more detail in Meetings)
+* Organize and leading committee meetings (outlined in more detail in Meetings)
 
-Collaborate with other committees
+* Collaborate with other committees
 
-Gather feedback from Design Committee members and Secret Network community on design-related projects for potential funding
+* Gather feedback from Design Committee members and Secret Network community on design-related projects for potential funding
 
-Evaluate design-related projects for potential fund allocation and oversee their fund allocation when applicable
+* Evaluate design-related projects for potential fund allocation and oversee their fund allocation when applicable
 
 ### Organization
 Due to the breadth of design, the Design Committee has the potential for additional Design Subcommittees or Ad-Hoc Committees, focused on specific areas of design or specific projects, efforts, and initiatives, respectively.
