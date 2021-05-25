@@ -21,7 +21,7 @@ https://github.com/baedrik/SCRT-sealed-bid-auction
 
 https://github.com/baedrik/secret-auction-factory
 
-### Secret Auctions
+### --------------------------------------------------------------------
 
 [Check-out Secret Auctions](https://auctions.scrt.network/) 
 
