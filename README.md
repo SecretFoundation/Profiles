@@ -25,17 +25,17 @@ The following is a list of contributor profiles of Secret Network.
 * [Secret NFTs]()
 
 ## Committees 
-* [Awareness]()
-* [Education]()
-* [Governance]()
-* [Analytics]()
-* [Dev]()
-* [BiZDev]()
-* [International Growth]()
-* [Front-end Dev]()
-* [SecretSwap]()
-* [Design]()
-* [Infrastucture]()
+* [Awareness](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Committees/Awareness.md)
+* [Education](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Committees/Education.md)
+* [Governance](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Committees/Governance.md)
+* [Analytics](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Committees/Analytics.md)
+* [Dev](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Committees/Dev.md)
+* [BiZDev](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Committees/BizDev.md)
+* [International Growth](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Committees/International.md)
+* [Front-end Dev](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Committees/Front-end.md)
+* [SecretSwap](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Committees/SecretSwap.md)
+* [Design](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Committees/Design.md)
+* [Infrastucture](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Committees/Infrastructure.md)
 
 ## Validators
 
