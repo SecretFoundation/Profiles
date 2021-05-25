@@ -37,7 +37,7 @@ Design to serve the community; share and make accessible your work with others, 
 Detach your ego from your work; understand that all people and designs are fallible and capable of being improved
 Give design feedback constructively, empathetically, and respectfully; explain your reasoning behind suggested changes or improvements; and offer alternative approaches when possible.
 
-### DESIGN COMMITTEE LEADS
+### Design Committee Leads
 
 Due to the breadth of design, the Design Committee has the potential for multiple committee leads, including subcommittee or ad-hoc committee leads (see Organization below).
 
