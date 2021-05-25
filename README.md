@@ -30,7 +30,7 @@ The following is a list of contributor profiles of Secret Network.
 * [Governance](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Committees/Governance.md)
 * [Analytics](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Committees/Analytics.md)
 * [Dev](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Committees/Dev.md)
-* [BiZDev](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Committees/BizDev.md)
+* [BizDev](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Committees/BizDev.md)
 * [International Growth](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Committees/International.md)
 * [Front-end Dev](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Committees/Front-end.md)
 * [SecretSwap](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Committees/SecretSwap.md)
