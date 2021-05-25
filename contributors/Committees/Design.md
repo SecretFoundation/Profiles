@@ -111,7 +111,7 @@ Schedule further design discussion, review, collaboration, or other breakout ses
 The Design Committee recognizes that decentralized governance is a highly experimental and rapidly evolving structure. As such, the Design Committee shall review and reassess the adequacy of this Charter periodically as it deems appropriate. This Charter may be amended or modified by the Committee, subject to disclosure and off-chain voting via discussion in committee meetings and communicated on the Secret Network forums. 
 
 
-DESIGN BEST PRACTICES RESOURCES:
+Design Best Practices Resources:
 
 Nielsen Norman Group
 
