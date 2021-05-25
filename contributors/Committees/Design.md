@@ -113,11 +113,11 @@ The Design Committee recognizes that decentralized governance is a highly experi
 
 Design Best Practices Resources:
 
-Nielsen Norman Group
+[Nielsen Norman Group](https://www.nngroup.com/reports/)
 
 https://design.google/resources/ 
 
 http://designresources.party/ 
 
-Refactoring UI
+[Refactoring UI](https://refactoringui.com/)
 
