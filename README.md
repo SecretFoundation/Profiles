@@ -9,7 +9,7 @@ The following is a list of contributor profiles of Secret Network.
 
 ## Tooling Developers:
 
-* Keplr
+* [Keplr]()
 
 ## Applications
 
