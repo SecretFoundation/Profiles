@@ -102,7 +102,7 @@ The following is a list of contributor profiles of Secret Network.
 
 * SecretDog
 
-* secretnodes
+* [secretnodes](https://github.com/SecretFoundation/Profiles/tree/main/contributors/Validators/secretnodes)
 
 * [securesecrets.org](https://github.com/SecretFoundation/Profiles/tree/main/contributors/Validators/Secure%20Secrets)
 
