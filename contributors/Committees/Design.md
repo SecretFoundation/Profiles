@@ -6,21 +6,21 @@ The Design Committee is a space for interested community members, designers, and
 
 Design includes, but is not limited to:
 
-Graphic Design
+* Graphic Design
 
-Visual Design
+* Visual Design
 
-User Interface Design
+* User Interface Design
 
-User Experience Design
+* User Experience Design
 
-User Research
+* User Research
 
-Usability Testing
+* Usability Testing
 
-Content Creation
+* Content Creation
 
-Responsibilities
+### Responsibilities
 
 The following responsibilities are shared amongst all members of the Design Committee, but accountability ultimately lies with the Design Committee lead(s):
 
