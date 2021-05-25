@@ -15,4 +15,7 @@ Bids are completely secret: Bidders can't see if there are any other bids, and s
 
 <img width="730" alt="Auction" src="https://user-images.githubusercontent.com/25411371/119444205-7b325080-bcf0-11eb-943a-ca0ae72b817d.PNG">
 
+https://github.com/baedrik/SCRT-sealed-bid-auction
+https://github.com/baedrik/secret-auction-factory
+
 
