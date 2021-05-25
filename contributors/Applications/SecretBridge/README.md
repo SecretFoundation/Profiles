@@ -6,6 +6,9 @@
 
 The Secret Ethereum Bridge is live on mainnet and ready for your use today. This immediately allows holders of ETH and certain ERC-20 assets to create "secret" versions of their assets as Secret Tokens and transact with them privately. Secret Tokens are powerful - they're programmable like ERC-20s, but private by default like Monero and similar coins.
 
+## Secret Bridge Video Tutorial:
+[![Secret Bridge Video Tutorial](https://user-images.githubusercontent.com/25411371/119446317-d7e33a80-bcf3-11eb-9097-e4d175ae2629.png)](https://www.youtube.com/watch?v=fTvKoshaWvM)
+
 The Secret Ethereum Bridge transfers between assets on the Ethereum network (ETH/ERC-20) and Secret Tokens, which are specified by the SNIP-20 spec. Secret Tokens combine the programmability of ERC-20s with the privacy of coins like Zcash or Monero. Interactions with Secret Token contracts are encrypted, viewable only to address owners or holders of their viewing key.
 
 ![image](https://user-images.githubusercontent.com/25411371/119445369-4fb06580-bcf2-11eb-9434-5c5a11deed6f.png)
