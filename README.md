@@ -19,6 +19,11 @@ The following is a list of contributor profiles of Secret Network.
 * [Secret Bridge](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/SecretBridge/README.md)
 * [Secret Heroes](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/SecretHeroes/README.md)
 
+## In Development
+* [Monero Bridge]()
+* [Stake Together]()
+* [Secret NFTs]()
+
 ## Validators
 
 * 01node
