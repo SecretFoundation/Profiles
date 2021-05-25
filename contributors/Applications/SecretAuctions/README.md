@@ -13,6 +13,8 @@ Starting today, you can visit https://auctions.scrt.network and create or bid on
 
 Bids are completely secret: Bidders can't see if there are any other bids, and sellers can only know if there have been any bids, but not how many. Additionally, until the auction is closed, no price info about any bids is known by anyone, and after the auction is closed the only information revealed is the winning bid. This is the first time this been possible on a blockchain application without a trusted third part - another first for Secret Network.
 
+[Read The Full Secret Auctions Blog Post](https://scrt.network/blog/secret-auctions-web-app-mainnet)
+
 <img width="730" alt="Auction" src="https://user-images.githubusercontent.com/25411371/119444205-7b325080-bcf0-11eb-943a-ca0ae72b817d.PNG">
 
 ### GitHub Links
