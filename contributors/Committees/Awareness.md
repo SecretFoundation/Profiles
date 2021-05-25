@@ -85,15 +85,15 @@ Maintain minutes of meetings and report to the Committee Leads call on significa
 
 While Awareness is a nebulous term there are metrics that can be tracked across many different channels to measure the effectiveness of the Awareness Committee. At establishment of this Committee these KPIs will include:
 
-# of Secret Network Twitter Followers
-# of Secret Network SubReddit Subscribers
-# of Secret Network Instagram Followers
-# of Secret Network Discord Members
-# of Secret Agents Recruited
-# of Secret Agent Points Accumulated 
-# of Runbook Campaigns Run
-# of Distribution Channels Hit Weekly
-# of SNACs Passed
+* # of Secret Network Twitter Followers
+* # of Secret Network SubReddit Subscribers
+* # of Secret Network Instagram Followers
+* # of Secret Network Discord Members
+* # of Secret Agents Recruited
+* # of Secret Agent Points Accumulated 
+* # of Runbook Campaigns Run
+* # of Distribution Channels Hit Weekly
+* # of SNACs Passed
 
 
 
