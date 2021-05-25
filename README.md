@@ -24,6 +24,19 @@ The following is a list of contributor profiles of Secret Network.
 * [Stake Together]()
 * [Secret NFTs]()
 
+## Committees 
+* [Awareness]()
+* [Education]()
+* [Governance]()
+* [Analytics]()
+* [Dev]()
+* [BiZDev]()
+* [International Growth]()
+* [Front-end Dev]()
+* [SecretSwap]()
+* [Design]()
+* [Infrastucture]()
+
 ## Validators
 
 * 01node
