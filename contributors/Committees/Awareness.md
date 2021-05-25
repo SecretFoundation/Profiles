@@ -20,17 +20,27 @@ The Awareness Committee shall have the potential to have multiple committee lead
 
 The Awareness Committee seeks members from diverse professional backgrounds with a broad spectrum of expertise that benefit the strategic guidance of the Secret Network’s awareness objectives and responsibilities. Committee members should have the characteristics essential for effectiveness as a member of the committee, and are expected to always:
 
-*Display Integrity, objectivity, sound judgment and leadership
-* Be exceptionally kind
-* Be respectful 
-* Have freedom of speech (but see rules 1, 2, and 3).
-* Contribute discussion and votes that you, as an individual, genuinely think offer value and are to the benefit of the community.
-* Offer criticism in the most constructive manner possible.
-* If disagreeing with something always provide an alternative solution when possible
-* Share space
-* Try to be empathetic and allow everybody to get their voice in.
-* Have an understanding of the Secret Network, blockchain operation, strategy and challenges
-* Have the willingness and ability to devote adequate time and effort to committee responsibilities and to serve on the Awareness Committee 
+(1) Display Integrity, objectivity, sound judgment and leadership
+
+(2) Be exceptionally kind
+
+(3) Be respectful 
+
+(4) Have freedom of speech (but see rules 1, 2, and 3).
+
+(5) Contribute discussion and votes that you, as an individual, genuinely think offer value and are to the benefit of the community.
+
+(6) Offer criticism in the most constructive manner possible.
+
+(7) If disagreeing with something always provide an alternative solution when possible
+
+(8) Share space
+
+(9) Try to be empathetic and allow everybody to get their voice in.
+
+(10) Have an understanding of the Secret Network, blockchain operation, strategy and challenges
+
+(11) Have the willingness and ability to devote adequate time and effort to committee responsibilities and to serve on the Awareness Committee 
 
 ### Authority and Responsibility
 
