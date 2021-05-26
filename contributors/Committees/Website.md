@@ -1,4 +1,4 @@
-### Goal
+## Goal
 The goal of the Website Committee will be two fold:
 
 To organize and facilitate the work needed to build and maintain the Secret Network Open Source Website 1.
