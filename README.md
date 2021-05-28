@@ -14,8 +14,8 @@ The following is a list of ecosystem profiles of Secret Network.
 * [ATOMARS](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/ATOMARS.md)
 
 ## DEXs
-* [Uniswap]()
-* [Sushiswap]()
+* [Uniswap](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/DEXs/Uniswap.md)
+* [Sushiswap](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/DEXs/Sushiswap.md)
 
 ## Applications
 
