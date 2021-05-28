@@ -7,11 +7,11 @@ The following is a list of ecosystem profiles of Secret Network.
 ⚠️ This is a community-generated list.
 -----------------------------
 ## Exchanges 
-* [Binance]()
-* [Gate.io]()
-* [MXC.com]()
-* [CoinEx]()
-* [ATOMARS]()
+* [Binance](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/Binance.md)
+* [Gate.io](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/Gate-io.md)
+* [MXC.com](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/MXC.md)
+* [CoinEx](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/CoinEx.md)
+* [ATOMARS](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/ATOMARS.md)
 
 ## Applications
 
@@ -56,24 +56,24 @@ The following is a list of ecosystem profiles of Secret Network.
 
 ## Developer Tools:
 
-* [Local Node]()
-* [Secret DataHub by Figmet]()
-* [Secret API]()
-* [Secret JS]()
-* [Secret Toolkit]()
-* [Smart Contract Interface]()
+* [Local Node](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Developer%20Tools/Local%20Node.md)
+* [Secret DataHub by Figmet](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Developer%20Tools/Secret%20DataHub.md)
+* [Secret API](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Developer%20Tools/Secret%20API.md)
+* [Secret JS](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Developer%20Tools/Secret%20JS.md)
+* [Secret Toolkit](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Developer%20Tools/Secret%20Toolkit.md)
+* [Smart Contract Interface](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Developer%20Tools/Smart%20Contract%20Interface.md)
 
 ## Wallets
-* [Keplr]()
-* [Citadel.One]()
-* [Secret Tipbot]()
-* [Sputnik Exchange]()
-* [Ledger]()
+* [Keplr](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Wallets/Keplr.md)
+* [Citadel.One](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Wallets/Citadel-One.md)
+* [Secret Tipbot](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Wallets/Secret%20Tipbot.md)
+* [Sputnik Exchange](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Wallets/Sputnik.md)
+* [Ledger](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Wallets/Ledger.md)
 
 ## Calculators
-* [Staking ROI Calculator]()
-* [Validator ROI Calculator]()
-* [SecretSwap LP Calculator]()
+* [Staking ROI Calculator](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Calculators/Staking.md)
+* [Validator ROI Calculator](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Calculators/Validator.md)
+* [SecretSwap LP Calculator](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Calculators/SecretSwapLP.md)
 
 ## Committees 
 * [Awareness](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Committees/Awareness.md)
@@ -89,10 +89,10 @@ The following is a list of ecosystem profiles of Secret Network.
 * [Infrastucture](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Committees/Infrastructure.md)
 
 ## Content Creators
-* [Official Secret Network]()
-* [Secure Secrets]()
-* [WhisperNode]()
-* [Travis Bonfigli]()
+* [Official Secret Network](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Content%20Creators/Secret%20Network%20Official.md)
+* [Secure Secrets](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Content%20Creators/Secure%20Secrets.md)
+* [WhisperNode](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Content%20Creators/WhisperNode.md)
+* [Travis Bonfigli](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Content%20Creators/Travis%20Bonfigli.md)
 
 ## Validators
 
