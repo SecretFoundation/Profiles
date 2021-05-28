@@ -3,6 +3,7 @@
 #### Applications built on Secret Network utilize encrypted data without exposing it to anyone, even the nodes in the network.
 
 The following is a list of ecosystem profiles of Secret Network.
+⚠️ This is a community-generated list.
 -----------------------------
 ## Exchanges 
 * [Binance]()
