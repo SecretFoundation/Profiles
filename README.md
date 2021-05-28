@@ -54,12 +54,14 @@ The following is a list of contributor profiles of Secret Network.
 * [Skynet Trading](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Skynet%20Trading.md)
 * [Spartan Group](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Skynet%20Trading.md)
 
-## Tooling Developers:
+## Developer Tools:
 
-* [Keplr]()
-* [Figment]()
-* [Mainnet Tooling]()
-* [Testnet Tooling]()
+* [Local Node]()
+* [Secret DataHub by Figmet]()
+* [Secret API]()
+* [Secret JS]()
+* [SecretJS]()
+* [Smart Contract Interface]()
 
 ## Wallets
 * [Keplr]()
@@ -67,6 +69,11 @@ The following is a list of contributor profiles of Secret Network.
 * [Secret Tipbot]()
 * [Sputnik Exchange]()
 * [Ledger]()
+
+## Calculators
+* [Staking ROI Calculator]()
+* [Validator ROI Calculator]()
+* [SecretSwap LP Calculator]()
 
 ## Committees 
 * [Awareness](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Committees/Awareness.md)
@@ -80,6 +87,12 @@ The following is a list of contributor profiles of Secret Network.
 * [SecretSwap](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Committees/SecretSwap.md)
 * [Design](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Committees/Design.md)
 * [Infrastucture](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Committees/Infrastructure.md)
+
+## Content Creators
+* [Official Secret Network]()
+* [Secure Secrets]()
+* [WhisperNode]()
+* [Travis Bonfigli]()
 
 ## Validators
 
