@@ -1,7 +1,6 @@
 # Outlier Ventures
 
-![image](https://user-images.githubusercontent.com/25411371/119944216-994eb980-bf59-11eb-8ed6-3892820a971b.png)
-
+![image](https://user-images.githubusercontent.com/25411371/119944474-ed599e00-bf59-11eb-96dd-71b4df697336.png)
 
 ## Link: https://outlierventures.io/
 
