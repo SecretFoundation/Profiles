@@ -60,7 +60,7 @@ The following is a list of contributor profiles of Secret Network.
 * [Secret DataHub by Figmet]()
 * [Secret API]()
 * [Secret JS]()
-* [SecretJS]()
+* [Secret Toolkit]()
 * [Smart Contract Interface]()
 
 ## Wallets
