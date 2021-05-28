@@ -10,6 +10,7 @@ The following is a list of contributor profiles of Secret Network.
 ## Tooling Developers:
 
 * [Keplr]()
+* 
 
 ## Applications
 
@@ -21,14 +22,23 @@ The following is a list of contributor profiles of Secret Network.
 
 ## In Development
 * [Monero Bridge]()
-* [Stake Together]()
 * [Secret NFTs]()
 * [ZeroSum Network]()
 * [Plasm Bridge]()
 * [BSC bridge]()
+* [Band Oracles]()
+* [Staking Derivatives]()
+* [Shinobi Protocol]()
 * [StakeTogether]()
 * [Orderbook for SecretSwap]()
-* 
+* [Polygon Bridge]()
+* [Secret Manufaktur]()
+* [Proof of attendance]()
+* [Shhh!]()
+* [Quartier]()
+* [Rock-Paper-Scissors]()
+* [Secret Hold-em']()
+
 ## Funds
 * [Arrington Capital](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Arrington%20Capital.md)
 * [Blocktower Capital](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Blocktower%20Capital.md)
