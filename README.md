@@ -28,6 +28,7 @@ The following is a list of contributor profiles of Secret Network.
 * [BSC bridge]()
 * [Band Oracles]()
 * [Staking Derivatives]()
+* [Fardels]()
 * [Shinobi Protocol]()
 * [StakeTogether]()
 * [Orderbook for SecretSwap]()
@@ -36,6 +37,9 @@ The following is a list of contributor profiles of Secret Network.
 * [Proof of attendance]()
 * [Shhh!]()
 * [Quartier]()
+* [Secret Loan]()
+* [Secret Vickery Auctions]()
+* [EUICCD - NFT]()
 * [Rock-Paper-Scissors]()
 * [Secret Hold-em']()
 
