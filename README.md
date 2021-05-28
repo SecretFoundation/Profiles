@@ -24,6 +24,15 @@ The following is a list of contributor profiles of Secret Network.
 * [Stake Together]()
 * [Secret NFTs]()
 
+## Funds
+*[Arrington Capital](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Arrington%20Capital.md)
+*[Blocktower Capital](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Blocktower%20Capital.md)
+*[Fenbushi](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Fenbushi.md)
+*[Hashed](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Hashed.md)
+*[Outlier Ventures](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Outlier%20Ventures.md)
+*[Skynet Trading](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Skynet%20Trading.md)
+*[Spartan Group](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Skynet%20Trading.md)
+
 ## Committees 
 * [Awareness](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Committees/Awareness.md)
 * [Education](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Committees/Education.md)
