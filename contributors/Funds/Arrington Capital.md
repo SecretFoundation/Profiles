@@ -7,9 +7,9 @@
 ## About
 Arrington XRP Capital is a digital asset management firm in blockchain-based capital markets.
 
-Team: http://arringtonxrpcapital.com/team/
-Portfolio: http://arringtonxrpcapital.com/companies/
-Blog: http://arringtonxrpcapital.com/blog/
+* Team: http://arringtonxrpcapital.com/team/
+* Portfolio: http://arringtonxrpcapital.com/companies/
+* Blog: http://arringtonxrpcapital.com/blog/
 
 ## Contact
 contact@arringtonxrpcapital.com
