@@ -57,7 +57,7 @@ The following is a list of ecosystem profiles of Secret Network.
 ## Developer Tools:
 
 * [Local Node](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Developer%20Tools/Local%20Node.md)
-* [Secret DataHub by Figmet](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Developer%20Tools/Secret%20DataHub.md)
+* [Secret DataHub by Figment](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Developer%20Tools/Secret%20DataHub.md)
 * [Secret API](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Developer%20Tools/Secret%20API.md)
 * [Secret JS](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Developer%20Tools/Secret%20JS.md)
 * [Secret Toolkit](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Developer%20Tools/Secret%20Toolkit.md)
