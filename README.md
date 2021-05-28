@@ -23,7 +23,12 @@ The following is a list of contributor profiles of Secret Network.
 * [Monero Bridge]()
 * [Stake Together]()
 * [Secret NFTs]()
-
+* [ZeroSum Network]()
+* [Plasm Bridge]()
+* [BSC bridge]()
+* [StakeTogether]()
+* [Orderbook for SecretSwap]()
+* 
 ## Funds
 * [Arrington Capital](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Arrington%20Capital.md)
 * [Blocktower Capital](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Blocktower%20Capital.md)
