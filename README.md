@@ -13,6 +13,10 @@ The following is a list of ecosystem profiles of Secret Network.
 * [CoinEx](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/CoinEx.md)
 * [ATOMARS](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/ATOMARS.md)
 
+## DEXs
+* [Uniswap]()
+* [Sushiswap]()
+
 ## Applications
 
 * [Sienna]()
