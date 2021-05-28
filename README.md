@@ -6,11 +6,12 @@ The following is a list of contributor profiles of Secret Network.
 
 ⚠️ This is a community-generated list.
 -----------------------------
-
-## Tooling Developers:
-
-* [Keplr]()
-* 
+## Exchanges 
+* [Binance]()
+* [Gate.io]()
+* [MXC.com]()
+* [CoinEx]()
+* [ATOMARS]()
 
 ## Applications
 
@@ -19,6 +20,7 @@ The following is a list of contributor profiles of Secret Network.
 * [Secret Auctions](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/SecretAuctions/README.md)
 * [Secret Bridge](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/SecretBridge/README.md)
 * [Secret Heroes](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/SecretHeroes/README.md)
+* [secretSCRT Converter]()
 
 ## In Development
 * [Monero Bridge]()
@@ -51,6 +53,20 @@ The following is a list of contributor profiles of Secret Network.
 * [Outlier Ventures](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Outlier%20Ventures.md)
 * [Skynet Trading](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Skynet%20Trading.md)
 * [Spartan Group](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Skynet%20Trading.md)
+
+## Tooling Developers:
+
+* [Keplr]()
+* [Figment]()
+* [Mainnet Tooling]()
+* [Testnet Tooling]()
+
+## Wallets
+* [Keplr]()
+* [Citadel.One]()
+* [Secret Tipbot]()
+* [Sputnik Exchange]()
+* [Ledger]()
 
 ## Committees 
 * [Awareness](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Committees/Awareness.md)
