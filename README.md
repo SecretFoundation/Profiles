@@ -16,6 +16,7 @@ The following is a list of ecosystem profiles of Secret Network.
 ## DEXs
 * [Uniswap](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/DEXs/Uniswap.md)
 * [Sushiswap](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/DEXs/Sushiswap.md)
+* [PancakeSwap](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/DEXs/PancakeSwap.md)
 
 ## Applications
 
