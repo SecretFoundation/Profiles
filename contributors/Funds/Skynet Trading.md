@@ -1,6 +1,6 @@
 # Skynet Trading
 
-![image](https://user-images.githubusercontent.com/25411371/119944575-0d895d00-bf5a-11eb-849b-a85f5289c676.png)
+![image](https://user-images.githubusercontent.com/25411371/119944766-4b868100-bf5a-11eb-9701-bae269f49f45.png)
 
 ## Link: https://skynettrading.com/
 
