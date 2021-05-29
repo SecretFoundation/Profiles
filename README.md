@@ -14,6 +14,7 @@ The following is a list of ecosystem profiles of Secret Network.
 * [ATOMARS](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/ATOMARS.md)
 
 ## DEXs
+* [SecretSwap](https://github.com/SecretFoundation/Profiles/tree/main/contributors/Applications/SecretSwap)
 * [Uniswap](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/DEXs/Uniswap.md)
 * [Sushiswap](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/DEXs/Sushiswap.md)
 * [PancakeSwap](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/DEXs/PancakeSwap.md)
@@ -21,10 +22,10 @@ The following is a list of ecosystem profiles of Secret Network.
 ## Applications
 
 * [Sienna]()
-* [SecretSwap](https://github.com/SecretFoundation/Profiles/tree/main/contributors/Applications/SecretSwap)
 * [Secret Auctions](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/SecretAuctions/README.md)
 * [Secret Bridge](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/SecretBridge/README.md)
 * [Secret Heroes](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/SecretHeroes/README.md)
+* [SecretSwap](https://github.com/SecretFoundation/Profiles/tree/main/contributors/Applications/SecretSwap)
 * [secretSCRT Converter]()
 
 ## In Development
