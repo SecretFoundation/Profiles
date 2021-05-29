@@ -48,7 +48,7 @@ The following is a list of ecosystem profiles of Secret Network.
 * [Secret Loan](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/Secret%20Loan.md)
 * [Secret Vickery Auctions](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/Secret%20Vickery%20Auctions.md)
 * [EUICCD - NFT](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/EUICCD%20-%20NFT.md)
-* [Secret Dice](https://github.com/SecretFoundation/Profiles/edit/main/contributors/Applications/In%20Development/Secret%20Roll)
+* [Secret Dice](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/Secret%20Dice.md)
 * [Rock-Paper-Scissors](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/Rock-Paper-Scissors.md)
 * [Secret Hold-em'](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/Secret%20Hold-em'.md)
 
