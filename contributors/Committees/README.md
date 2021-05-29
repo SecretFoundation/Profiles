@@ -6,11 +6,11 @@ Current completed charters:
 * SecretSwap
 * BizDev
 * Infrastructure 
+* International Growth
 
 Incomplete Charters:
 
 * Analytics (Transitioning)
-* International Growth (Transitioning)
 * Governance (Not yet formed)
 * Dev (Not yet formed)
 * Website (Not yet fully formed)
