@@ -2,6 +2,12 @@
 
 ### [secretswap.io](https://www.secretswap.io/)
 
+### Github Repos: 
+https://github.com/enigmampc/SecretSwap
+
+https://github.com/enigmampc/scrt-finance-rewards/
+
+
 # What is SecretSwap?
 
 Secret Swap is a protocol for creating liquidity and trading SNIP-20 tokens on Secret Network. Leveraging secret contracts, Secret Swap protects users against malicious front-running and privacy threats, provides access to cross-chain liquidity, and reduces fees relative to Ethereum.
