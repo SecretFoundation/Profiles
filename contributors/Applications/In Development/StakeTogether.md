@@ -74,7 +74,7 @@ Take PoolTogether’s UI as an inspiration and integrate secret.js
 * Alice clicks on accounts tab to see:
 * Alice’s winnings all time
 * Odds of winning the current raffle (%)
-* # of raffles Alice participated in
+* number of raffles Alice participated in
 
 Alice’s stake (view balance)
 
@@ -86,6 +86,8 @@ View current prize - landing page app.secretpooltogether.com ??
 
 View odds of winning
 Show this in Alice profile
+
+<img width="313" alt="Overview" src="https://user-images.githubusercontent.com/25411371/120376388-73bb0a80-c2e1-11eb-83ae-ee80a78e9548.PNG">
 
 Landing page -> view pool -> odd of winning calculated if Alice is actually staking, otherwise n/a%
 
@@ -99,7 +101,7 @@ Alice views balance in her profile, we can show this as secretSCRT or SCRT. I do
 
 Don’t have a strong opinion, don’t need a GUI for this, can be manually added when the contract is being deployed.
 
-##### ock contract
+##### Lock contract
 
 What do we mean by this
 
