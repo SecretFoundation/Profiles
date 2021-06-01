@@ -2,6 +2,8 @@
 
 ## Link to repo: https://github.com/levackt/stakepool
 
+## Link to google doc equivalent: https://docs.google.com/document/d/1ZuHIVCmqAl5QPZFknp27N5uqwO7HB3iXwEUS5R6RXuI/edit?usp=sharing
+
 ## What is StakeTogether on Secret Network?
 
 ### Introduction
