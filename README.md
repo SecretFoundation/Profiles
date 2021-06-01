@@ -12,13 +12,13 @@ The following is a list of ecosystem profiles of Secret Network.
 * [MXC.com](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/MXC.md)
 * [CoinEx](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/CoinEx.md)
 * [ATOMARS](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/ATOMARS.md)
-* [simpleswap.io]()
 
 ## DEXs
 * [SecretSwap](https://github.com/SecretFoundation/Profiles/tree/main/contributors/Applications/SecretSwap)
 * [Uniswap](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/DEXs/Uniswap.md)
 * [Sushiswap](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/DEXs/Sushiswap.md)
 * [PancakeSwap](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/DEXs/PancakeSwap.md)
+* [simpleswap.io](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/DEXs/simpleswap.md)
 
 ## Applications
 
