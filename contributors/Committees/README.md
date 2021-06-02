@@ -8,10 +8,10 @@ Current completed charters:
 * Infrastructure 
 * International Growth
 * Website
+* Analytics
 
 Incomplete Charters:
 
-* Analytics (Transitioning)
 * Governance (Not yet formed)
 * Dev (Not yet formed)
 
