@@ -53,6 +53,7 @@ The following is a list of ecosystem profiles of Secret Network.
 * [Secret Dice](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/Secret%20Dice.md)
 * [Rock-Paper-Scissors](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/Rock-Paper-Scissors.md)
 * [Secret Hold-em'](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/Secret%20Hold-em'.md)
+* [Mangrove Protocol]()
 
 ## Funds
 * [Arrington Capital](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Arrington%20Capital.md)
