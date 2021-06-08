@@ -79,7 +79,7 @@ The following is a list of ecosystem profiles of Secret Network.
 * [Secret Tipbot](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Wallets/Secret%20Tipbot.md)
 * [Sputnik Exchange](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Wallets/Sputnik.md)
 * [Ledger](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Wallets/Ledger.md)
-* [Cosmos](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Wallets/Cosmostation.md)
+* [Cosmostation](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Wallets/Cosmostation.md)
 
 ## Calculators
 * [Staking ROI Calculator](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Calculators/Staking.md)
