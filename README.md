@@ -62,7 +62,7 @@ The following is a list of ecosystem profiles of Secret Network.
 * [Hashed](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Hashed.md)
 * [Outlier Ventures](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Outlier%20Ventures.md)
 * [Skynet Trading](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Skynet%20Trading.md)
-* [Spartan Group](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Skynet%20Trading.md)
+* [Spartan Group](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Spartan%20Group.md)
 
 ## Developer Tools:
 
