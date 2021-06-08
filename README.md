@@ -57,7 +57,7 @@ The following is a list of ecosystem profiles of Secret Network.
 
 ## Funds
 * [Arrington Capital](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Arrington%20Capital.md)
-* [Blocktower Capital](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Blocktower%20Capital.md)
+* [Blocktower Capital](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/BlockTower%20Capital.md)
 * [Fenbushi](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Fenbushi.md)
 * [Hashed](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Hashed.md)
 * [Outlier Ventures](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Outlier%20Ventures.md)
