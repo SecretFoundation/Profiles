@@ -6,10 +6,15 @@ The BizDev & Growth Committee exists to be a liaison between the larger crypto e
 The main goal of the BizDev & Growth committee will be to provide research and intelligence to the secret community, to leadership as well as committees on constantly evolving crypto world and where Secret Network fits in.
 
 Secure cross promotion channels with other crypto projects
+
 Work with dev committee and Enigma on Partner integrations
+
 Product Acceleration - Work with new products on unique Selling Points and brand strategy for products - SecretSwap, SecretNFTs, etc.
+
 Active Recruitment / Double Agent style outreach to other communities to create elite strike teams who can assist internal SN talent
-Reports /briefs made for the secret community on outside trends, topics that will help internal SN products and committees stay at the bleeding edge of the constantly changing world without having to distract themselves with endless research.
+
+Reports /briefs made for the secret community on outside trends, topics that will help internal SN products and committees stay at the bleeding edge of the constantly changing 
+world without having to distract themselves with endless research.
 
 ### II. Membership
 
