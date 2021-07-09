@@ -15,6 +15,7 @@ The following is a list of ecosystem profiles of Secret Network.
 * [Mandala Exchange](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/Mandala.md)
 * [BitMart](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/BitMart.md)
 * [HotBit](https://www.hotbit.io/exchange?symbol=SCRT_BTC)
+* [LunarCrush](https://lunarcrush.com/coins/scrt/secret?interval=1%20Week)
 
 ## DEXs
 * [SecretSwap](https://github.com/SecretFoundation/Profiles/tree/main/contributors/Applications/SecretSwap)
