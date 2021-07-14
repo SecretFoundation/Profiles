@@ -1,14 +1,16 @@
 | Committee | Leads | Funded On-chain | Charter |
 | :---         |     :---:      |          ---: | ---: |
-| Education   | Darren + Stefan    | Yes    |
-| Awareness   | Brendan    | Yes    |
-| Design   | John B.     | Yes    |
-| SecretSwap   | Iowa    | Yes    |
-| BizDev  | John I.    | Yes    |
-| Infrastructure  | Ian + Mohammed   | Yes    |
-| International Growth  | Jeremy + Dalton    | Yes    |
-| Website   | Sandy | No    |
-| Analytics  | Superfish   | YNo    |
+| Education   | Darren + Stefan    | Yes    |  Yes    | 
+| Awareness   | Brendan    | Yes    |  Yes    | 
+| Design   | John B.     | Yes    |  Yes    | 
+| SecretSwap   | Iowa    | Yes    |  Yes    | 
+| BizDev  | John I.    | Yes    |  Yes    | 
+| Infrastructure  | Ian + Mohammed   | Yes    |  Yes    | 
+| International Growth  | Jeremy + Dalton    | Yes    |  Yes    | 
+| Website   | Sandy | No    |  Yes    | 
+| Analytics  | Superfish   | No   |  Yes    | 
+| Governance | N/A   | No   |  No   | 
+| Dev | N/A   | No   |  No   | 
 
 Incomplete Charters:
 
