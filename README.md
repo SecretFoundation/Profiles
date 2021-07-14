@@ -17,7 +17,7 @@ The following is a list of ecosystem profiles of Secret Network.
 * [HotBit](https://www.hotbit.io/exchange?symbol=SCRT_BTC)
 * [LunarCrush](https://lunarcrush.com/coins/scrt/secret?interval=1%20Week)
 * [CoinSpot]()
-* [SwiftEx]()
+* [Swyftx]()
 
 ## DEXs
 * [SecretSwap](https://github.com/SecretFoundation/Profiles/tree/main/contributors/Applications/SecretSwap)
