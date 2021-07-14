@@ -92,7 +92,7 @@ The following is a list of ecosystem profiles of Secret Network.
 * [SecretSwap LP Calculator](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Calculators/SecretSwapLP.md)
 
 ## Committees 
-####[Committess Land Page](https://github.com/SecretFoundation/Profiles/tree/main/contributors/Committees)
+[#### Committess Land Page](https://github.com/SecretFoundation/Profiles/tree/main/contributors/Committees)
 * [Awareness](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Committees/Awareness.md)
 * [Education](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Committees/Education.md)
 * [Governance](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Committees/Governance.md)
