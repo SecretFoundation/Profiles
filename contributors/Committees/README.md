@@ -17,14 +17,13 @@ Incomplete Charters:
 
 [Committee Charter Template](https://docs.google.com/document/d/1vEq_BD6wOqVbFCbBcdVJ7XdSnjsECXXOVpsMb0r5bLw/edit?usp=sharing)
 
-Committee Leads:
-* Education -> Darren & Stephan. 
-* Awareness -> Brendan
-* Design -> John D. 
-* SecretSwap -> Iowa
-* BizDev -> John I.
-* Infrastructure -> Mohammed & Ian
-* International Growth -> Jeremy & Dalton
-* Website -> Sandy / Stake or Die!
-* Analytics -> Superfish
-
+Committee	Leads	On-chain funded
+Education	Darren & Stefan	Yes
+Awareness	Brendan	Yes
+Design	John D.	Yes
+SecretSwap	Iowa	Yes
+BizDev	John I.	Yes
+Infrastructure	Mohammed & Ian	Yes
+International Growth	Jeremy & Dalton	Yes
+Website	Sandy	No
+Analytics	Superfish	No
