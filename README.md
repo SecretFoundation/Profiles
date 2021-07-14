@@ -16,8 +16,8 @@ The following is a list of ecosystem profiles of Secret Network.
 * [BitMart](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/BitMart.md)
 * [HotBit](https://www.hotbit.io/exchange?symbol=SCRT_BTC)
 * [LunarCrush](https://lunarcrush.com/coins/scrt/secret?interval=1%20Week)
-* [CoinSpot]()
-* [Swyftx]()
+* [CoinSpot](https://www.coinspot.com.au/buy/eng)
+* [Swyftx](https://swyftx.com/au/buy/secret/)
 
 ## DEXs
 * [SecretSwap](https://github.com/SecretFoundation/Profiles/tree/main/contributors/Applications/SecretSwap)
