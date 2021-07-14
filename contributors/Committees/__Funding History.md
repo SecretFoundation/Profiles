@@ -12,4 +12,4 @@
 
 
 # Total Community Pool Spend
-6,750 + 11,000 + 17,400 + 4,500 + 9,750 + 16,500 + 10,500 = 76,400
+6,750 + 11,000 + 17,400 + 4,500 + 9,750 + 16,500 + 10,500 = 76,400 SCRT = 25.4k SCRT per month (3 month committee cycles)
