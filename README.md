@@ -82,6 +82,7 @@ The following is a list of ecosystem profiles of Secret Network.
 * [Secret JS](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Developer%20Tools/Secret%20JS.md)
 * [Secret Toolkit](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Developer%20Tools/Secret%20Toolkit.md)
 * [Smart Contract Interface](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Developer%20Tools/Smart%20Contract%20Interface.md)
+* [GridTape.JS / Front-End Framework](https://docs.vue.griptapejs.com/)
 
 ## Wallets
 * [Keplr](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Wallets/Keplr.md)
@@ -95,6 +96,7 @@ The following is a list of ecosystem profiles of Secret Network.
 * [Staking ROI Calculator](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Calculators/Staking.md)
 * [Validator ROI Calculator](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Calculators/Validator.md)
 * [SecretSwap LP Calculator](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Calculators/SecretSwapLP.md)
+* [Staking Optimizer](https://www.securesecrets.org/stakingoptimizer)
 
 ## Committees 
 [Committess Landing Page](https://github.com/SecretFoundation/Profiles/tree/main/contributors/Committees)
