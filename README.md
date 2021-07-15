@@ -37,8 +37,8 @@ The following is a list of ecosystem profiles of Secret Network.
 
 ## Bridges
 
-* Secret Ethereum Bridge
-* Secret BSC Bridge
+* [Secret Ethereum Bridge](https://bridge.scrt.network/)
+* [Secret BSC Bridge](https://bridge.scrt.network/)
 
 ## In Development
 * [Monero Bridge](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/Monero%20Bridge.md)
