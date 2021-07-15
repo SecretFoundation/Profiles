@@ -35,6 +35,11 @@ The following is a list of ecosystem profiles of Secret Network.
 * [SecretSwap](https://github.com/SecretFoundation/Profiles/tree/main/contributors/Applications/SecretSwap)
 * [secretSCRT Converter]()
 
+## Bridges
+
+* Secret Ethereum Bridge
+* Secret BSC Bridge
+
 ## In Development
 * [Monero Bridge](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/Monero%20Bridge.md)
 * [Secret NFTs](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/Secret%20Manufaktur.md)
