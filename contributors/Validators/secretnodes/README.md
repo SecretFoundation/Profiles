@@ -6,7 +6,7 @@ Telegram: @moonstash
 
 # secretnodes
 
-We are the first/original community incorporated company to form around Secret Network and our roots in the community go back to the 2017 ENG ICO. We have played a role in all major aspects of the history of the network and are committed to continuing to support and grow the ecosystem as a whole with further develpment efforts.
+We are Secret LLC. We make secretnodes.com and are working on secretwallet.com & secretmarket.com. We focus on building tools for end users that focus primarily on secret and giving value to the secret ecosystem.
 
 ## Team
 
