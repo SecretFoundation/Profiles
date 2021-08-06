@@ -33,7 +33,8 @@ The following is a list of ecosystem profiles of Secret Network.
 * [Secret Bridge](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/SecretBridge/README.md)
 * [Secret Heroes](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/SecretHeroes/README.md)
 * [SecretSwap](https://github.com/SecretFoundation/Profiles/tree/main/contributors/Applications/SecretSwap)
-* [secretSCRT Converter]()
+* [Secret Garden](https://scrtgarden.com/)
+* [secretSCRT Converter](https://wallet.keplr.app/#/secret/secret-secret)
 
 ## Bridges
 
