@@ -14,7 +14,7 @@
 
 [Committee Charter Template](https://docs.google.com/document/d/1vEq_BD6wOqVbFCbBcdVJ7XdSnjsECXXOVpsMb0r5bLw/edit?usp=sharing)
 
-| Committee | Date | Renewal Date | SCRT Funded | Pass | Link |
+| Committee | Date | ~Renewal Date | SCRT Funded | Pass | Link |
 | :---         |     :---:      |  :---:      |          ---: | ---: | ---: |
 | BizDev| 5/15/2021 | 8/15/2021 | 6,750 | Yes |  [Proposal 34](https://secretnodes.com/secret/chains/secret-2/governance/proposals/34) |
 | Infrastructure| 5/15/2021| 8/15/2021 | 11,000 | Yes| [Proposal 35](https://secretnodes.com/secret/chains/secret-2/governance/proposals/35)| 
