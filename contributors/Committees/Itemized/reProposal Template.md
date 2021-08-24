@@ -1,13 +1,16 @@
 ## Name of Proposal
+Insert
 
 ## Proposal Objectives
+Insert
 
 ## Itemized Accomplishments From Previous Proposal
-(Link to charter)[test]
-(Link to previous proposal)[test]
+[Link to charter]()
+[Link to previous proposal]()
 
-## Funding
+## Funding Ask
+Insert
 
 ## Proposal Lifespan
-
+Insert
 
