@@ -9,7 +9,7 @@
 | International Growth  | Jeremy + Dalton    | Yes    |  Yes    | 
 | Website   | Sandy | No    |  Yes    | 
 | Analytics  | Superfish   | No   |  Yes    | 
-| Governance | N/A   | No   |  No   | 
+| Governance | Pmuecke   | Yes   |  Yes   | 
 | Dev | N/A   | No   |  No   | 
 
 [Committee Charter Template](https://docs.google.com/document/d/1vEq_BD6wOqVbFCbBcdVJ7XdSnjsECXXOVpsMb0r5bLw/edit?usp=sharing)
@@ -24,7 +24,7 @@
 | Awareness| 6/18/2021| 9/18/2021 | 16,500 | Yes| [Proposal 40](https://secretnodes.com/secret/chains/secret-2/governance/proposals/40)| 
 | Guerilla Marketing| 6/27/2021| N/A |  5,000 | No| [Proposal 41](https://secretnodes.com/secret/chains/secret-2/governance/proposals/41)| 
 | Design| 6/27/2021| 9/27/2021| 10,500 | Yes| [Proposal 42](https://secretnodes.com/secret/chains/secret-2/governance/proposals/42)| 
-| Design| 8/15/2021| 11/15/2021| 9,000 | Yes| [Proposal 46](https://secretnodes.com/secret/chains/secret-2/governance/proposals/46)| 
+| Governance| 8/15/2021| 11/15/2021| 9,000 | Yes| [Proposal 46](https://secretnodes.com/secret/chains/secret-2/governance/proposals/46)| 
 
 
 
