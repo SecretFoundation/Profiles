@@ -5,8 +5,8 @@ Insert
 Insert
 
 ## Itemized Accomplishments From Previous Proposal
-[Link to charter]()
-[Link to previous proposal]()
+* [Link to charter]()
+* [Link to previous proposal]()
 
 ## Funding Ask
 Insert
