@@ -41,9 +41,9 @@ The following is a list of ecosystem profiles of Secret Network.
 
 * [Secret Ethereum Bridge](https://bridge.scrt.network/)
 * [Secret Binance Smart Chain Bridge](https://bridge.scrt.network/)
+* [Monero Bridge](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/Monero%20Bridge.md)
 
 ## In Development
-* [Monero Bridge](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/Monero%20Bridge.md)
 * [Secret NFTs](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/Secret%20Manufaktur.md)
 * [ZeroSum Network](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/ZeroSum%20Network.md)
 * [Plasm Bridge](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/Plasm%20Bridge.md)
