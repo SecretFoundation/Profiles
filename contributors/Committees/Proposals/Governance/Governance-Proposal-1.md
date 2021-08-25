@@ -38,6 +38,6 @@ Compensated Roles:
 Total Ask:
 
 * pmuecke | secretSauce 🍯  = 3,000 SCRT / month
-* 
+
 **Total Proposal Spend for 3 Months: 9,000 SCRT**
 
