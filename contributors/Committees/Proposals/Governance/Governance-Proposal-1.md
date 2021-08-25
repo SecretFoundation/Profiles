@@ -31,14 +31,13 @@ Ultimately we believe the Governance Committee should be judged on its added val
 
 ### Budget Request
 Compensated Roles:
-pmuecke | secretSauce 🍯  = 3,000 SCRT / month | 12-15 hours per week
-Current Governance Committee chair for 1 month
-Policy officer at a top-tier research institute (top 3 in its field worldwide).
-Chaired faculty and central university PhD councils, representing the interests of over 1600 PhD Candidates and staying in touch with all relevant stakeholders.
-Boardmember of a national scientific society that brings together clinicians and basic researchers.
-High-level contributor in the Secret Network Community, creating the SCRT info bot on Discord (SCRT info bot#6485) / Telegram (https://t.me/SCRT_info_bot), the Automated Awareness Bridge on Twitter (https://twitter.com/SCRTNetworkNews) / Telegram (https://t.me/SecretNewsNetwork), SCRT Node Hunter on Telegram (https://t.me/SCRT_Node_Hunter_bot), and SCRT GasStation on https://www.secretanalytics.xyz.
- Total Ask
+* pmuecke | secretSauce 🍯  = 3,000 SCRT / month | 12-15 hours per week
+* Current Governance Committee chair for 1 month
+* Policy officer at a top-tier research institute (top 3 in its field worldwide).
 
-pmuecke | secretSauce 🍯  = 3,000 SCRT / month
-Total Proposal Spend for 3 Months: 9,000 SCRT
+Total Ask:
+
+* pmuecke | secretSauce 🍯  = 3,000 SCRT / month
+* 
+**Total Proposal Spend for 3 Months: 9,000 SCRT**
 
