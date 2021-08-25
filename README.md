@@ -67,7 +67,7 @@ The following is a list of ecosystem profiles of Secret Network.
 * [Secret Hold-em'](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/Secret%20Hold-em'.md)
 * [Mangrove Protocol](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/Mangrove-Protocol.md)
 
-## Funded Grants (9)
+## Funded Grants (10)
 * [SNIP-721 Reference Implementation:   private fungible token standard](https://github.com/SecretFoundation/Grants/issues/2)
 * [Secret Monero Bridge:    bringing DeFi for Monero](https://github.com/SecretFoundation/Grants/issues/3)
 * [Fardels:   privacy-preserving decentralized social network for sharing](https://github.com/SecretFoundation/Grants/issues/4)
