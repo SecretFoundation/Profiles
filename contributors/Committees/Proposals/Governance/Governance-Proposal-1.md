@@ -29,7 +29,7 @@ Ultimately we believe the Governance Committee should be judged on its added val
 * For on-chain proposals and validator activity within governance we propose a high level KPI that captures voting behavior: Average percentage of voting power that voted in proposals over the charter 3-months period. Voting behavior will change based on the specific proposal, but an average of 50% or more of voting power consistently being used is consistent with past months. Additionally, quorum (33%) should be reached on all proposals to ensure the community adequately responds to all proposals.
 * For validator-committee communication we propose a high level KPI that captures validator engagement: Percentage of validators that respond to bi-monthly surveys. Surveys typically have a high likelihood of a low response rate, but considering the importance of validators in on-chain governance we aim for a 33% response rate for the first survey.
 
-## Budget Request
+### Budget Request
 Compensated Roles:
 pmuecke | secretSauce 🍯  = 3,000 SCRT / month | 12-15 hours per week
 Current Governance Committee chair for 1 month
