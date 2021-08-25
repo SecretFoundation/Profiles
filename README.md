@@ -77,6 +77,7 @@ The following is a list of ecosystem profiles of Secret Network.
 * [Secret Heroes:   Secret NFT based hero battling game](https://github.com/SecretFoundation/Grants/issues/13)
 * [Prediction Market Module:    SecretSwap Prediction Market](https://github.com/SecretFoundation/Grants/issues/16)
 * [Griptape.js:   front-end framework for developing Secret Apps](https://github.com/SecretFoundation/Grants/issues/19)
+* [SILK: Private algorithmic stablecoin](https://github.com/SecretFoundation/Grants/issues/22) 
 
 ## Funds
 * [Arrington Capital](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Arrington%20Capital.md)
