@@ -36,6 +36,7 @@ The following is a list of ecosystem profiles of Secret Network.
 * [SecretSwap](https://github.com/SecretFoundation/Profiles/tree/main/contributors/Applications/SecretSwap)
 * [Secret Garden](https://scrtgarden.com/)
 * [secretSCRT Converter](https://wallet.keplr.app/#/secret/secret-secret)
+* [Viewing Key Wizard](https://vk-wizard.enigma.co/)
 
 ## Bridges
 
