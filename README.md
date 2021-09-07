@@ -37,7 +37,7 @@ The following is a list of ecosystem profiles of Secret Network.
 * [Secret Garden](https://scrtgarden.com/)
 * [secretSCRT Converter](https://wallet.keplr.app/#/secret/secret-secret)
 * [Viewing Key Wizard](https://vk-wizard.enigma.co/)
-* [Fardels]((https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/Fardels.md)
+* [Fardels](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/Fardels.md)
 
 ## Bridges
 
@@ -52,7 +52,6 @@ The following is a list of ecosystem profiles of Secret Network.
 * [BSC bridge](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/BSC%20Bridge.md)
 * [Band Oracles](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/Band%20Oracles.md)
 * [Staking Derivatives](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/Staking%20Derivatives.md)
-* [Fardels](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/Fardels.md)
 * [Shinobi Protocol](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/Shinobi%20Protocol.md)
 * [StakeTogether](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/StakeTogether.md)
 * [Orderbook for SecretSwap](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/Orderbook%20for%20SecretSwap)
