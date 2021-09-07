@@ -8,7 +8,7 @@
 | Infrastructure  | Ian + Mohammed   | Yes    |  Yes    | 
 | International Growth  | Jeremy + Dalton    | Yes    |  Yes    | 
 | Website   | Sandy | No    |  Yes    | 
-| Analytics  | Superfish   | No   |  Yes    | 
+| Data  | Superfish   | Yes   |  Yes    | 
 | Governance | Pmuecke   | Yes   |  Yes   | 
 | Dev | N/A   | No   |  No   | 
 
