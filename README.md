@@ -37,6 +37,7 @@ The following is a list of ecosystem profiles of Secret Network.
 * [Secret Garden](https://scrtgarden.com/)
 * [secretSCRT Converter](https://wallet.keplr.app/#/secret/secret-secret)
 * [Viewing Key Wizard](https://vk-wizard.enigma.co/)
+* [Fardels]((https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/Fardels.md)
 
 ## Bridges
 
