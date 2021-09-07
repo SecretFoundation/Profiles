@@ -1,6 +1,7 @@
 https://fardels.network/explore
 
 About Fardels:
+
 Social media has become integral to how content creators like musicians, writers, artists, and entertainers publish their creations with the world. Although social media has made it possible to more directly share what you make, because the networks are centralized, the development of comparable mechanisms whereby the consumers of the content directly compensate people for what they bring to the community has been elusive.
 
 Ever since the creation of smart contracts there has been a promise of building new kinds of decentralized social networks that can solve this problem. In practice what has been built have been impoverished clones of existing social networks (for example, EtherTweet) that lack key features, such as the ability to follow others. That is because most smart contract networks do not (and cannot) keep user data private. Plus, they have not innovated around the strengths of the blockchain to rethink the types of relations that social networks aim to foster.
