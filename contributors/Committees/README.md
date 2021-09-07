@@ -12,7 +12,7 @@
 | Governance | Pmuecke   | Yes   |  Yes   | 
 | Dev | N/A   | No   |  No   | 
 
-None Committee Inititives
+None Committee Initiatives
 | Inititive | Leads | Funded On-chain | Charter |
 | :---         |     :---:      |          ---: | ---: |
 | Infrastructure  | Ian + Mohammed   | Yes    |  Yes    | 
