@@ -30,6 +30,10 @@ None Committee Inititives
 | Guerilla Marketing| 6/27/2021| N/A |  5,000 | No| [Proposal 41](https://secretnodes.com/secret/chains/secret-2/governance/proposals/41)| 
 | Design| 6/27/2021| 9/27/2021| 10,500 | Yes| [Proposal 42](https://secretnodes.com/secret/chains/secret-2/governance/proposals/42)| 
 | Governance| 8/15/2021| 11/15/2021| 9,000 | Yes| [Proposal 46](https://secretnodes.com/secret/chains/secret-2/governance/proposals/46)| 
+| Infrastructure #2| 9/2/2021| 12/02/2021| 54,500 | Yes| [Proposal 47](https://secretnodes.com/secret/chains/secret-2/governance/proposals/47)|
+| Education #2| 9/2/2021| 12/02/2021| 19,725 | Yes| [Proposal 48](https://secretnodes.com/secret/chains/secret-2/governance/proposals/48)|
+| Data | 9/2/2021| 12/02/2021| 45,000 | Yes| [Proposal 49](https://secretnodes.com/secret/chains/secret-2/governance/proposals/49)|
+| International Growth #2 | 9/7/2021| 12/07/2021| 28,500 | Yes| [Proposal 50](https://secretnodes.com/secret/chains/secret-2/governance/proposals/50)|
 
 [Inititive Charter Template](https://docs.google.com/document/d/1vEq_BD6wOqVbFCbBcdVJ7XdSnjsECXXOVpsMb0r5bLw/edit?usp=sharing)
 
@@ -38,6 +42,6 @@ None Committee Inititives
 | Infrastructure| 5/15/2021| 8/15/2021 | 11,000 | Yes| [Proposal 35](https://secretnodes.com/secret/chains/secret-2/governance/proposals/35)| 
 
 # Total Community Pool Spend
-6,750 + 11,000 + 17,400 + 4,500 + 9,750 + 16,500 + 10,500 + 9,000 = 85,400 SCRT = 28.46k SCRT per month (3 month committee cycles)
+6,750 + 11,000 + 17,400 + 4,500 + 9,750 + 16,500 + 10,500 + 9,000 + 54,500 + 19,725 + 45,000 + 28,500 = 233,125 SCRT
 
 
