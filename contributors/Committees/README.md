@@ -43,5 +43,6 @@ None Committee Initiatives
 
 # Total Community Pool Spend
 6,750 + 11,000 + 17,400 + 4,500 + 9,750 + 16,500 + 10,500 + 9,000 + 54,500 + 19,725 + 45,000 + 28,500 = 233,125 SCRT
+
 Approximate monthly burn rate ~58,000 SCRT
 
