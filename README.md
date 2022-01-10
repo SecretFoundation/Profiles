@@ -40,6 +40,28 @@ The following is a list of ecosystem profiles of Secret Network.
 * [Fardels](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/Fardels.md)
 * [Altermail](https://altermail.co/)
 
+## NFT Collections
+* [ ]()
+* [ ]()
+* [ ]()
+* [ ]()
+* [ ]()
+* [ ]()
+* [ ]()
+* [ ]()
+* [ ]()
+* [ ]()
+* [ ]()
+* [ ]()
+* [ ]()
+* [ ]()
+* [ ]()
+* [ ]()
+* [ ]()
+* [ ]()
+* [ ]()
+* [ ]()
+
 ## Bridges
 
 * [Secret Ethereum Bridge](https://bridge.scrt.network/)
