@@ -114,6 +114,8 @@ The following is a list of ecosystem profiles of Secret Network.
 * [Prediction Market Module:    SecretSwap Prediction Market](https://github.com/SecretFoundation/Grants/issues/16)
 * [Griptape.js:   front-end framework for developing Secret Apps](https://github.com/SecretFoundation/Grants/issues/19)
 * [SILK: Private algorithmic stablecoin](https://github.com/SecretFoundation/Grants/issues/22) 
+* [WisprWallet - the Web3 Wallet for Secret Network](https://github.com/SecretFoundation/Grants/issues/24)
+* [SCRT Ledger App](https://github.com/SecretFoundation/Grants/issues/28)
 
 ## Funds
 * [Arrington Capital](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Arrington%20Capital.md)
