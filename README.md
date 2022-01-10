@@ -7,6 +7,12 @@ The following is a list of ecosystem profiles of Secret Network.
 ⚠️ This is a community-generated list.
 ## Channels
 ----------------------------
+* [Official Secret Network Telegram](https://t.me/SCRTcommunity)
+* [Official Secret Network Discord](https://discord.com/invite/SJK32GY)
+* [Official Secret Network Twitter](https://twitter.com/SecretNetwork)
+* [Official Secret Network YouTube](https://www.youtube.com/channel/UCZPqj7h7mzjwuSfw_UWxQPw)
+* [Official Secret Network Instagram](https://www.instagram.com/scrtnetwork/)
+* [Official Secret Network Forums](https://forum.scrt.network/)
 * [Secret NFTs Telegram](https://t.me/secretnfts)
 -----------------------------
 ## Exchanges 
