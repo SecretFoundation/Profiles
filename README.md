@@ -39,7 +39,7 @@ The following is a list of ecosystem profiles of Secret Network.
 * [Viewing Key Wizard](https://vk-wizard.enigma.co/)
 * [Fardels](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/Fardels.md)
 * [Altermail](https://altermail.co/)
-* [Btn Group dApps](https://btn.group/)
+* [Btn dApps](https://btn.group/)
 
 ## NFT Collections
 * [Tarantino NFTs](https://github.com/SecretFoundation/Profiles/blob/main/contributors/NFTs/Tarantino.md)
