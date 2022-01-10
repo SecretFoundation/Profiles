@@ -14,7 +14,7 @@ The following is a list of ecosystem profiles of Secret Network.
 * [Instagram](https://www.instagram.com/scrtnetwork/)
 * [Forums](https://forum.scrt.network/)
 * [Secret NFTs Telegram](https://t.me/secretnfts)
------------------------------
+
 ## Exchanges 
 * [Binance](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/Binance.md)
 * [Gate.io](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/Gate-io.md)
