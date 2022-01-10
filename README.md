@@ -7,7 +7,7 @@ The following is a list of ecosystem profiles of Secret Network.
 ⚠️ This is a community-generated list.
 ## Channels
 ----------------------------
-*[Secret NFTs Telegram](https://t.me/secretnfts)
+* [Secret NFTs Telegram](https://t.me/secretnfts)
 -----------------------------
 ## Exchanges 
 * [Binance](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/Binance.md)
