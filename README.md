@@ -29,7 +29,7 @@ The following is a list of ecosystem profiles of Secret Network.
 
 ## Applications
 
-* [Sienna]()
+* [Sienna](https://app.sienna.network/)
 * [Secret Auctions](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/SecretAuctions/README.md)
 * [Secret Bridge](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/SecretBridge/README.md)
 * [Secret Heroes](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/SecretHeroes/README.md)
