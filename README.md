@@ -41,7 +41,7 @@ The following is a list of ecosystem profiles of Secret Network.
 * [Altermail](https://altermail.co/)
 
 ## NFT Collections
-* [ ]()
+* [Tarantino NFTs](https://github.com/SecretFoundation/Profiles/blob/main/contributors/NFTs/Tarantino.md)
 * [ ]()
 * [ ]()
 * [ ]()
