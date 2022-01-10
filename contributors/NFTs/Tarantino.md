@@ -1,4 +1,3 @@
-![tar](https://user-images.githubusercontent.com/25411371/148815962-b8256abd-1a59-477b-87f8-0c8c8d40c8c3.PNG)
-
+![Taran](https://user-images.githubusercontent.com/25411371/148816066-5bda5353-b12b-439d-9df7-e48aa7a96047.PNG)
 
 [Tarantino NFT Collection](https://tarantinonfts.com/)
