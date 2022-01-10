@@ -29,6 +29,7 @@ The following is a list of ecosystem profiles of Secret Network.
 * [Swyftx](https://swyftx.com/au/buy/secret/)
 
 ## DEXs
+* [SiennaSwap](https://app.sienna.network/)
 * [SecretSwap](https://github.com/SecretFoundation/Profiles/tree/main/contributors/Applications/SecretSwap)
 * [Uniswap](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/DEXs/Uniswap.md)
 * [Sushiswap](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/DEXs/Sushiswap.md)
