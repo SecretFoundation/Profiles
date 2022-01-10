@@ -53,8 +53,8 @@ The following is a list of ecosystem profiles of Secret Network.
 * [Altermail](https://altermail.co/)
 * [Btn dApps](https://btn.group/)
 
-## NFT Collections
-Stashh Secret NFT Marketplace: https://stashh.io/
+## NFT Collections (28)
+[Stashh Secret NFT Marketplace](https://stashh.io/)
 
 * [Tarantino NFTs](https://github.com/SecretFoundation/Profiles/blob/main/contributors/NFTs/Tarantino.md)
 * [Anons](https://stashh.io/collection/secret1xx4fp7qgkyxdk9elrzd8v5p7gj28lvxprwl9lw)
