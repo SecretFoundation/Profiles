@@ -30,6 +30,7 @@ The following is a list of ecosystem profiles of Secret Network.
 ## Applications
 
 * [Shade Protocol](https://shadeprotocol.io/)
+* [Stashh](https://stashh.io/)
 * [Sienna](https://app.sienna.network/)
 * [Secret Auctions](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/SecretAuctions/README.md)
 * [Secret Bridge](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/SecretBridge/README.md)
