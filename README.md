@@ -187,6 +187,7 @@ The following is a list of ecosystem profiles of Secret Network.
 ## Content Creators
 * [Official Secret Network](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Content%20Creators/Secret%20Network%20Official.md)
 * [Secure Secrets](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Content%20Creators/Secure%20Secrets.md)
+* [Secret Code Podcast](https://www.youtube.com/channel/UC-5VYuAXJL60hlJIUilW-pg/videos)
 * [WhisperNode](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Content%20Creators/WhisperNode.md)
 * [Travis Bonfigli](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Content%20Creators/Travis%20Bonfigli.md)
 
