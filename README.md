@@ -103,14 +103,14 @@ The following is a list of ecosystem profiles of Secret Network.
 * [Secret Hold-em'](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/Secret%20Hold-em'.md)
 * [Mangrove Protocol](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/Mangrove-Protocol.md)
 
-## Funded Grants (13)
+## Funded Grants (14)
 * [SNIP-721 Reference Implementation:   private fungible token standard](https://github.com/SecretFoundation/Grants/issues/2)
 * [Secret Monero Bridge:    bringing DeFi for Monero](https://github.com/SecretFoundation/Grants/issues/3)
 * [Fardels:   privacy-preserving decentralized social network for sharing](https://github.com/SecretFoundation/Grants/issues/4)
 * [SecretPY:    python library for SecretJS](https://github.com/SecretFoundation/Grants/issues/6)
 * [Secret Contract Code Verification System:    secret contract validation](https://github.com/SecretFoundation/Grants/issues/7)
 * [SecretNet:   Secret Library for Unity3D](https://github.com/SecretFoundation/Grants/issues/8)
-* [Polar Contract Framework](https://github.com/SecretFoundation/Grants/issues/15]
+* [Polar Contract Framework](https://github.com/SecretFoundation/Grants/issues/15)
 * [Secret Heroes:   Secret NFT based hero battling game](https://github.com/SecretFoundation/Grants/issues/13)
 * [Prediction Market Module:    SecretSwap Prediction Market](https://github.com/SecretFoundation/Grants/issues/16)
 * [Griptape.js:   front-end framework for developing Secret Apps](https://github.com/SecretFoundation/Grants/issues/19)
