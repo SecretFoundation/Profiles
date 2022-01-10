@@ -91,7 +91,12 @@ The following is a list of ecosystem profiles of Secret Network.
 * [Secret Ethereum Bridge](https://bridge.scrt.network/)
 * [Secret Binance Smart Chain Bridge](https://bridge.scrt.network/)
 * [Monero Bridge](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/Monero%20Bridge.md)
-* 
+* [Secret ATOM Bridge](https://wrap.scrt.network/)
+* [Secret LUNA Bridge](https://wrap.scrt.network/)
+* [Secret UST Bridge](https://wrap.scrt.network/)
+* [Secret OSMOS Bridge](https://wrap.scrt.network/)
+* [Secret DVPN Bridge](https://wrap.scrt.network/)
+* [Secret IBC Bridges](https://wrap.scrt.network/)
 
 ## In Development
 * [Secret NFTs](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Applications/In%20Development/Secret%20Manufaktur.md)
