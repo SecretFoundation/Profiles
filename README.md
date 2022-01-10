@@ -6,7 +6,6 @@ The following is a list of ecosystem profiles of Secret Network.
 
 ⚠️ This is a community-generated list.
 ## Channels
-----------------------------
 * [Telegram](https://t.me/SCRTcommunity)
 * [Price Chat](https://t.me/scrtmarket)
 * [Discord](https://discord.com/invite/SJK32GY)
