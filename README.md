@@ -18,7 +18,7 @@ The following is a list of ecosystem profiles of Secret Network.
 ## Exchanges 
 * [Binance](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/Binance.md)
 * [Gate.io](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/Gate-io.md)
-* [Huobi](https://www.huobi.com/en-us/exchange/)
+* [Huobi](https://www.huobi.com)
 * [FTX - (Futures)](https://ftx.us/home)
 * [MXC.com](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/MXC.md)
 * [CoinEx](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/CoinEx.md)
