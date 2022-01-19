@@ -6,7 +6,7 @@ The following is a list of ecosystem profiles of Secret Network.
 
 ⚠️ This is a community-generated list.
 
-## Funds
+## Funds (26)
 [Ecosystem Fund](https://scrt.network/blog/secret-network-400m-ecosystem-funding-new-investors)
 * [DeFiance Capital](https://www.defiance.capital/)
 * [Alameda Reseach](https://www.alameda-research.com/)
