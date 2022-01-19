@@ -7,7 +7,7 @@ The following is a list of ecosystem profiles of Secret Network.
 ⚠️ This is a community-generated list.
 
 ## Funds
-[Ecosystem Fund Blog](https://scrt.network/blog/secret-network-400m-ecosystem-funding-new-investors)
+[Ecosystem Fund](https://scrt.network/blog/secret-network-400m-ecosystem-funding-new-investors)
 * [DeFiannce Capital](https://www.defiance.capital/)
 * [Alameda Reseach](https://www.alameda-research.com/)
 * [CounFund](https://www.coinfund.io/)
@@ -34,16 +34,6 @@ The following is a list of ecosystem profiles of Secret Network.
 * [Outlier Ventures](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Outlier%20Ventures.md)
 * [Skynet Trading](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Skynet%20Trading.md)
 * [Spartan Group](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Funds/Spartan%20Group.md)
-
-## Channels
-* [Telegram](https://t.me/SCRTcommunity)
-* [Price Chat](https://t.me/scrtmarket)
-* [Discord](https://discord.com/invite/SJK32GY)
-* [Twitter](https://twitter.com/SecretNetwork)
-* [YouTube](https://www.youtube.com/channel/UCZPqj7h7mzjwuSfw_UWxQPw)
-* [Instagram](https://www.instagram.com/scrtnetwork/)
-* [Forums](https://forum.scrt.network/)
-* [Secret NFTs Telegram](https://t.me/secretnfts)
 
 ## Exchanges 
 * [Binance](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Exchanges/Binance.md)
@@ -214,6 +204,16 @@ The following is a list of ecosystem profiles of Secret Network.
 * [Secret Code Podcast](https://www.youtube.com/channel/UC-5VYuAXJL60hlJIUilW-pg/videos)
 * [WhisperNode](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Content%20Creators/WhisperNode.md)
 * [Travis Bonfigli](https://github.com/SecretFoundation/Profiles/blob/main/contributors/Content%20Creators/Travis%20Bonfigli.md)
+
+## Channels
+* [Telegram](https://t.me/SCRTcommunity)
+* [Price Chat](https://t.me/scrtmarket)
+* [Discord](https://discord.com/invite/SJK32GY)
+* [Twitter](https://twitter.com/SecretNetwork)
+* [YouTube](https://www.youtube.com/channel/UCZPqj7h7mzjwuSfw_UWxQPw)
+* [Instagram](https://www.instagram.com/scrtnetwork/)
+* [Forums](https://forum.scrt.network/)
+* [Secret NFTs Telegram](https://t.me/secretnfts)
 
 ## Validators
 
