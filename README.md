@@ -17,7 +17,7 @@ The following is a list of ecosystem profiles of Secret Network.
 * [Terraform Labs](https://www.terra.money/)
 * [Hartmann Capital](https://www.hartmann-capital.com/)
 * [NGC](https://www.ngc.fund/)
-* [Figment Capita](https://www.figment.io/)
+* [Figment Capital](https://www.figment.io/)
 * [ArkStream Capital](https://arkstream.capital/#/Home)
 * [Shima Capital](https://shima.capital/)
 * [Magnus Capital](https://magnusdigitalassets.com/)
