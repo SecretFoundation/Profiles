@@ -14,7 +14,7 @@ The following is a list of ecosystem profiles of Secret Network.
 * [Dragonfly Capital](https://www.dcp.capital/)
 * [Skyvision Capital](https://www.skyvisioncapital.com/)
 * [Hashkey](https://capital.hashkey.com/)
-* [Terrafornm Labs](https://www.terra.money/)
+* [Terraform Labs](https://www.terra.money/)
 * [Hartmann Capital](https://www.hartmann-capital.com/)
 * [NGC](https://www.ngc.fund/)
 * [Figment Capita](https://www.figment.io/)
