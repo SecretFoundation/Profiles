@@ -4,15 +4,14 @@
 | Awareness   | Brendan    | Yes    |  Yes    | 
 | Design   | John B.     | Yes    |  Yes    | 
 | SecretSwap   | Iowa    | Yes    |  Yes    | 
-| BizDev  | John I.    | Yes    |  Yes    | 
-| Infrastructure  | Ian + Mohammed   | Yes    |  Yes    | 
+| BizDev  | Jay + Riaz    | Yes    |  Yes    | 
 | International Growth  | Jeremy + Dalton    | Yes    |  Yes    | 
 | Website   | Sandy | No    |  Yes    | 
 | Data  | Superfish   | Yes   |  Yes    | 
 | Governance | Pmuecke   | Yes   |  Yes   | 
 | Dev | N/A   | No   |  No   | 
 
-None Committee Initiatives
+Non-Committee Initiatives
 | Inititive | Leads | Funded On-chain | Charter |
 | :---         |     :---:      |          ---: | ---: |
 | Infrastructure  | Ian + Mohammed   | Yes    |  Yes    | 
@@ -34,6 +33,8 @@ None Committee Initiatives
 | Education #2| 9/2/2021| 12/02/2021| 19,725 | Yes| [Proposal 48](https://secretnodes.com/secret/chains/secret-2/governance/proposals/48)|
 | Data | 9/2/2021| 12/02/2021| 45,000 | Yes| [Proposal 49](https://secretnodes.com/secret/chains/secret-2/governance/proposals/49)|
 | International Growth #2 | 9/7/2021| 12/07/2021| 28,500 | Yes| [Proposal 50](https://secretnodes.com/secret/chains/secret-2/governance/proposals/50)|
+| Awareness #2 | 10/1/2021| 30/12/2021| 19,500 | Yes| [Proposal 53](https://secretnodes.com/secret/chains/secret-2/governance/proposals/53)|
+| BizDev #2 | 10/1/2021| 31/12/2021| 28,000 | Yes| [Proposal 54](https://secretnodes.com/secret/chains/secret-2/governance/proposals/54)|
 
 [Inititive Charter Template](https://docs.google.com/document/d/1vEq_BD6wOqVbFCbBcdVJ7XdSnjsECXXOVpsMb0r5bLw/edit?usp=sharing)
 
@@ -42,7 +43,7 @@ None Committee Initiatives
 | Infrastructure| 5/15/2021| 8/15/2021 | 11,000 | Yes| [Proposal 35](https://secretnodes.com/secret/chains/secret-2/governance/proposals/35)| 
 
 # Total Community Pool Spend
-6,750 + 11,000 + 17,400 + 4,500 + 9,750 + 16,500 + 10,500 + 9,000 + 54,500 + 19,725 + 45,000 + 28,500 = 233,125 SCRT
+6,750 + 11,000 + 17,400 + 4,500 + 9,750 + 16,500 + 10,500 + 9,000 + 54,500 + 19,725 + 45,000 + 28,500 + 19,500 + 28,000 = 280,625 SCRT
 
-Approximate monthly burn rate ~58,000 SCRT Monthly
+Approximate monthly burn rate ~56,000 SCRT Monthly
 
